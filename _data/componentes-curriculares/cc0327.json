@@ -1,0 +1,47 @@
+{
+    "bibliografia": {
+        "basica": [
+            "S.M. Ross. Simulation. Academic Press, 2006.",
+            "P.J. Freitas. Introdução à modelagem e simulação de sistemas com aplicações arena. Visual Books, 2008.",
+            "L. Chwif e A.C Medina. Modelagem e simulação de eventos discretos. Leonardo Chwif, 2010.",
+            "D.S. Prado. Teoria das filas e da simulação. INGD, 2004.",
+            "A. O. Allen. Probability, Statistics, and Queuing Theory With Computer Science Applications, Academic Press; 2nd ed., 1990."
+        ],
+        "complementar": []
+    },
+    "carga-horaria": {
+        "ead": 0,
+        "extensao": 0,
+        "pratica": 32,
+        "semanas": 16,
+        "teorica": 32
+    },
+    "codigo": "CC0327",
+    "curso": {
+        "carater": "Obrigatório",
+        "codigo": "080",
+        "curriculo": "2011.1G",
+        "grau": "Bacharelado",
+        "nome": "Matemática Industrial",
+        "semestre": 6
+    },
+    "departamento": "Estatística e Matemática Aplicada",
+    "ementa": [
+        "Teoria das Filas: Fundamentos e conceitos básicos sobre teoria das filas, comportamento estático e dinâmico dos sistemas de filas, medição de performance em sistema de filas, modelos M/M/1. Técnicas de Simulação: terminologia em simulação, exemplos de modelos simulação. Verificação e validação de modelos de simulação. Modelos de simulações diversos. Softwares de simulação."
+    ],
+    "justificativa": "Os alunos de Matemática industrial necessitam dos conteúdos apresentados na disciplina de simulação estocástica, pois amostras de variáveis aleatórias devem ser geradas em um ambiente computacional a fim de obter um determinado resultado para problemas reais. A disciplina é direcionada a estudantes de graduação em Matemática Industrial ou área afins que possuam noções de probabilidades e estatística.",
+    "nome": "Simulação Estocástica",
+    "objetivos": [
+        "O objetivo principal é fornecer ao aluno uma introdução aos vários aspectos da simulação estocástica."
+    ],
+    "pre-requisitos": [
+        "CC0288"
+    ],
+    "regime": "semestral",
+    "turno": {
+        "matutino": true,
+        "noturno": false,
+        "vespertino": true
+    },
+    "unidade": "Centro de Ciências"
+}

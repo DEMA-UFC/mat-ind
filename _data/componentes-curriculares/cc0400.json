@@ -1,0 +1,49 @@
+{
+    "bibliografia": {
+        "basica": [
+            "CORNACHIONE JR, Edgard B. Informática aplicada ás áreas de contabilidade, administração e economia. 3.ed. São Paulo: Atlas, 2001.",
+            "DATE, C. Introdução a sistemas de bancos de dados. Rio de Janeiro: Campus, 2000.",
+            "HEUSER, C. A. Projeto de bancos de dados. Porto Alegre: Sagra-Luzzatto, 2000.",
+            "NORTON, Peter. Introdução à informática. São Paulo: Makron Books, 1996.",
+            "SANTOS, Aldemar de Araújo. Informática na empresa. 2.ed. São Paulo: Atlas, 2000.",
+            "TORRES. Norberto Antonio. Planejamento de informática na empresa. São Paulo: Atlas, 1991."
+        ],
+        "complementar": []
+    },
+    "carga-horaria": {
+        "ead": 0,
+        "extensao": 0,
+        "pratica": 32,
+        "semanas": 16,
+        "teorica": 32
+    },
+    "codigo": "CC0400",
+    "curso": {
+        "carater": "Eletivo",
+        "codigo": "080",
+        "curriculo": "2011.1G",
+        "grau": "Bacharelado",
+        "habilitacao": [
+            "Matemática Computacional",
+            "Pesquisa Operacional"
+        ],
+        "nome": "Matemática Industrial",
+        "semestre": 4
+    },
+    "departamento": "Estatística e Matemática Aplicada",
+    "ementa": [
+        "Conceitos básicos de informática. Introdução aos Sistemas de Informação. A evolução da TI. Componentes da Tecnologia de Informação: Hardware, Software. Redes e Telecomunicações. Evolução dos SGBDs. Arquitetura geral dos SGBDs. Modelagem de dados. Modelo Entidade e Relacionamento (MER). Linguagens de definição e manipulação de dados. Operações com relações e mapeamento para SQL. Elaboração de um  Projeto de Bancos de Dados para uma aplicação real, contendo especificações de todas as fases de Análise e Modelagem envolvidas: Modelo Conceitual, Análise (OO ou Essencial), Projetos Lógico e Físico."
+    ],
+    "justificativa": "Familiarizar o aluno com as t Familiarizar o aluno com as tecnologias e metodologias para desenvolvimento de aplicações de maior grau de complexidade. Capacitar o aluno a implementar soluções utilizando bancos de dados apresentando as diversas tecnologias da área.",
+    "nome": "Tecnologia da Informação",
+    "objetivos": [
+        "O que se pretende não é formar cientistas de computação ou analistas de sistemas, mas sim oferecer ao aluno uma visão ampla das potencialidades dos recurso da Tecnologia da Informação como instrumento de apoio ao trabalho do dia-a-dia. A maior parte do curso será dedicada ao uso de equipamentos para assimilação das principais ferramentas de trabalho que o aluno utilizará amplamente durante todo o curso e, sobretudo, durante sua vida profissional. Para isto, os alunos desenvolverão projetos de aplicação prática dos recurso apresentados, visando melhor sedimentação dos conhecimentos adquiridos."
+    ],
+    "regime": "semestral",
+    "turno": {
+        "matutino": true,
+        "noturno": false,
+        "vespertino": true
+    },
+    "unidade": "Centro de Ciências"
+}

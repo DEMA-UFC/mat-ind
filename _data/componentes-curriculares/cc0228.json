@@ -1,0 +1,59 @@
+{
+    "bibliografia": {
+        "basica": [
+            "COSTA, Antonio Fernando Branco ; EPPRECHT, Eugenio Kanh ; CARPINETTI, Luiz César Ribeiro Carpinetti. “Controle Estatístico de Qualidade”. Editora Atlas S.A., São Paulo, 2004.",
+            "MONTGOMERY, Douglas C.- “Introdução ao Controle Estatístico da Qualidade”. 2a Edição. LTC Editora. Rio de Janeiro. 2004.",
+            "MONTGOMERY, Douglas C.- \"Introduction to Statistical Quality Control\". 2a Edição. John Wiley & Sons. New York. 1991.",
+            "GARVIN, David A. “Gerenciando a qualidade: a visão estratégica e competitiva.”  Rio de Janeiro, Qualitymark, 1992.",
+            "WERKEMA, Maria Cristina Castanho - \"Ferramentas Estatísticas Básicas para o Gerenciamento de Processos\" – Fundação Christiano Ottoni, Vol. 2 - Editora Líttera Maciel, 1995.",
+            "WERKEMA, Maria Cristina Castanho. “Avaliação da Qualidade de Medidas”. TQC-Gestão da Qualidade Total:Série Ferramentas da Qualidade, Fundação Christiano Ottoni, Vol. 13 , Belo Horizonte-MG, 1996.",
+            "RAMOS, Alberto Wanderler. “CEP para Processos Contínuos e em Bateladas”. Editora Edgard Blücher Ldta, São Paulo, 2000."
+        ],
+        "complementar": []
+    },
+    "carga-horaria": {
+        "ead": 0,
+        "extensao": 0,
+        "pratica": 16,
+        "semanas": 16,
+        "teorica": 48
+    },
+    "codigo": "CC0228",
+    "curso": {
+        "carater": "Eletivo",
+        "codigo": "080",
+        "curriculo": "2011.1G",
+        "grau": "Bacharelado",
+        "habilitacao": [
+            "Pesquisa Operacional"
+        ],
+        "nome": "Matemática Industrial",
+        "semestre": 6
+    },
+    "departamento": "Estatística e Matemática Aplicada",
+    "ementa": [
+        "Histórico da qualidade; análises do sistema de medição; análise de processos autocorrelacionados; gráficos de controle estatístico da qualidade por variáveis e atributos; planos de inspeção por amostragem; modelos de gestão da qualidade (Gestão pela Qualidade Total e ISO 9000); ferramentas básicas da qualidade."
+    ],
+    "justificativa": "Dentro das habilidades e capacidades desejadas para o aluno formado neste curso, espera-se ele possa atuar no setor produtivo industrial. Nesse sentido, a disciplina de Controle Estatístico da Qualidade fornece conhecimento teórico e prático para que o estudante egresso seja capaz de atuar nesses setores produtivos, aplicando as técnicas desenvolvidas durante o desenvolvimento da disciplina. Essas técnicas são poderosas ferramentas para o monitoramento “on line” dos processos, fator importante para a prevenção de problemas na produção.",
+    "nome": "Controle Estatístico da Qualidade",
+    "objetivos": [
+        "Despertar a consciência para a qualidade",
+        "Apresentar e discutir a filosofia da Gestão da Qualidade",
+        "Capacitar a aplicação de ferramentas básicas estatísticas no controle de processos",
+        "Capacitar a avaliação da qualidade das medidas",
+        "Capacitar o estudo de processos autocorrelacionados",
+        "Capacitar a aplicação e construção de gráficos (cartas) de controle estatístico de processos",
+        "Capacitar o entendimento e interpretação dos gráficos de controle estatístico de processos",
+        "Capacitar a aplicação de técnicas de inspeção por amostragem"
+    ],
+    "pre-requisitos": [
+        "CC0288"
+    ],
+    "regime": "semestral",
+    "turno": {
+        "matutino": true,
+        "noturno": false,
+        "vespertino": true
+    },
+    "unidade": "Centro de Ciências"
+}

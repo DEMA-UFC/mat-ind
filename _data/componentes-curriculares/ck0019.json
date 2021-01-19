@@ -1,0 +1,46 @@
+{
+    "bibliografia": {
+        "basica": [
+            "DASGUPTA, S.; PAPADIMITRIOU, C.; VAZIRANI, U. Algorithms. McGraw Hill, 2000.",
+            "CORMEN, T. H.; LEISERSON, C. E.; RIVEST, R. L. Introduction to Algorithms. Massachusetts Institute of Technology, 1990."
+        ],
+        "complementar": [
+            "Sipser, Michael. Introdução à Teoria da Computação. Thomson, 2002.",
+            "ZIVIANI, Nívio. Projeto de Algoritmos. Pioneira Informática, 1994.",
+            "CORMEN, T. H.; LEISERSON, C. E.; RIVEST, R. L.; STEIN, C. Algoritmos - Teoria e Prática. Editora Campus, 2002."
+        ]
+    },
+    "carga-horaria": {
+        "ead": 0,
+        "extensao": 0,
+        "pratica": 0,
+        "semanas": 16,
+        "teorica": 96
+    },
+    "codigo": "CK0019",
+    "curso": {
+        "carater": "Obrigatório",
+        "codigo": "080",
+        "curriculo": "2011.1G",
+        "grau": "Bacharelado",
+        "nome": "Matemática Industrial",
+        "semestre": 4
+    },
+    "departamento": "Computação",
+    "ementa": [
+        "Análise de algoritmos. Técnicas de projeto de algoritmos. Aplicações de projeto de algoritmos. Classes de complexidade de problemas."
+    ],
+    "justificativa": "Aprender a analisar algoritmos quanto a sua correção, tempo de execução e memória utilizada. Aprender técnicas de desenvolvimento de algoritmos eficientes. A noção de eficiência do algoritmo, assim como elementos de teoria da complexidade de problemas são apresentados. O estudo de técnicas para construção de algoritmos eficientes, como a classificação de problemas segundo a teoria da complexidade são pontos importantes na avaliação dos discentes.",
+    "nome": "Construção e Análise de Algoritmos",
+    "objetivos": [],
+    "pre-requisitos": [
+        "CK0109"
+    ],
+    "regime": "semestral",
+    "turno": {
+        "matutino": true,
+        "noturno": false,
+        "vespertino": true
+    },
+    "unidade": "Centro de Ciências"
+}

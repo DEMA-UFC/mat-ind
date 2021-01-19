@@ -1,0 +1,26 @@
+{
+    "carga-horaria": {
+        "ead": 0,
+        "extensao": 0,
+        "pratica": 256,
+        "semanas": 0,
+        "teorica": 0
+    },
+    "carga-horaria-docente": 0,
+    "codigo": "MIN0001",
+    "curso": {
+        "carater": "Obrigatório",
+        "codigo": "080",
+        "curriculo": "2011.1G",
+        "grau": "Bacharelado",
+        "nome": "Matemática Industrial"
+    },
+    "nome": "Atividades Complementares",
+    "tipo": "Atividades Integradoras de Formação",
+    "turno": {
+        "matutino": true,
+        "noturno": false,
+        "vespertino": true
+    },
+    "unidade": "Pró-Reitoria de Graduação"
+}

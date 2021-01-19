@@ -1,0 +1,46 @@
+{
+    "bibliografia": {
+        "basica": [
+            "STEWART, J., Cálculo, Vol. 1, Cengage Learning, 6a edição, São Paulo, 2010.",
+            "LEITHOLD, L., O Cálculo com Geometria Analítica, Vol. 1, Ed. Harbra, 3a edição, 2002.",
+            "SANTOS, Â. R. dos; BIANCHINI, W., Aprendendo Cálculo com Maple: cálculo de uma variável, Ed. LTC, 1a edição, Rio de Janeiro, 2002."
+        ],
+        "complementar": [
+            "SWOKOWSKI, E. W., Cálculo com Geometria Analítica, Vol. I, Ed. Makron Books, São Paulo, 1995.",
+            "THOMAS, G. B., FINNEY, M. D., WEIR, F. R., GIORDANO, F. R., Cálculo, Vol. I, Ed. Addison Wesley, 2003.",
+            "KHURI, A. I., Advanced calculus with applications in statistics, Ed. John Wiley and Sons, 2nd edition, New Jersey, 2003."
+        ]
+    },
+    "carga-horaria": {
+        "ead": 0,
+        "extensao": 0,
+        "pratica": 16,
+        "semanas": 16,
+        "teorica": 80
+    },
+    "codigo": "CB0534",
+    "curso": {
+        "carater": "Obrigatório",
+        "codigo": "080",
+        "curriculo": "2011.1G",
+        "grau": "Bacharelado",
+        "nome": "Matemática Industrial",
+        "semestre": 1
+    },
+    "departamento": "Matemática",
+    "ementa": [
+        "Funções reais de uma variável e curvas; Limites; Continuidade; Derivadas e suas aplicações; Integral indefinida; Integral definida; Aplicações de integrais definidas;"
+    ],
+    "justificativa": "Habilitar o aluno a empregar fundamentos básicos de derivada e de integral de funções a uma variável real.",
+    "nome": "Cálculo Diferencial e Integral I",
+    "objetivos": [
+        "Reconhecer e resolver problemas envolvendo os princípios de limites para funções reais a uma variável real; Reconhecer funções contínuas e usar os teoremas relacionados para resolver problemas práticos; Interpretar e calcular derivadas de funções reais a uma variável real; Identificar e resolver problemas envolvendo razões de variações; Deduzir modelos matemáticos para resolver problemas de máximo e mínimo envolvendo situações práticas; Obter aplicações das funções logarítmicas e exponenciais a partir de suas derivadas. Deduzir e aplicar as derivadas das funções trigonométricas. Esboçar gráficos de funções reais a uma variável real; Reconhecer e resolver problemas que envolvam diferenciais e equações diferenciais de primeira ordem com variáveis separáveis; Reconhecer e resolver problemas que envolvem os princípios da integral definida segundo Riemann."
+    ],
+    "regime": "semestral",
+    "turno": {
+        "matutino": true,
+        "noturno": true,
+        "vespertino": true
+    },
+    "unidade": "Centro de Ciências"
+}

@@ -1,0 +1,43 @@
+{
+    "bibliografia": {
+        "basica": [
+            "MOORE, D.S. A estatística básica e sua prática. 3. ed. Rio de Janeiro: LTC, 2005.",
+            "FERREIRA, D.F. Estatística básica. Lavras, MG: Editora UFLA, 2005.",
+            "BUSSAB, W.O.; MORETTIN, P.A. Estatística básica. 5.ed. São Paulo: Saraiva, 2005.",
+            "TOLEDO, G.L.; OVALLE, I.I. Estatística básica. 2. ed. Sao Paulo: Atlas, 1985."
+        ],
+        "complementar": []
+    },
+    "carga-horaria": {
+        "ead": 0,
+        "extensao": 0,
+        "pratica": 16,
+        "semanas": 16,
+        "teorica": 48
+    },
+    "codigo": "CC0280",
+    "curso": {
+        "carater": "Obrigatório",
+        "codigo": "080",
+        "curriculo": "2011.1G",
+        "grau": "Bacharelado",
+        "nome": "Matemática Industrial",
+        "semestre": 2
+    },
+    "departamento": "Estatística e Matemática Aplicada",
+    "ementa": [
+        "Introdução à Estatística; tipos de variáveis; análise exploratória de variáveis qualitativas; análise exploratória de variáveis quantitativas; análise bidimensional; utilização de ferramenta computacional."
+    ],
+    "justificativa": "No mundo moderno as facilidades oferecidas pela divulgação de informações, assim como o desenvolvimento de novas ferramentas estatísticas de maior complexidade tornam o conhecimento básico da ciência estatística uma necessidade. Para o aluno recém-ingresso no Curso de Estatística, deparar-se com aplicações da estatística, mesmo sem grandes aprofundamentos teóricos, é de grande valia para uma iniciação profissional.",
+    "nome": "Análise Exploratória de Dados",
+    "objetivos": [
+        "No final da disciplina o aluno deve: conhecer conceitos básicos da Estatística; identificar tipos de variáveis e calcular e interpretar as medidas resumo apropriadas para cada tipo de variável; identificar e construir representações gráficas apropriadas para descrever fenômenos; construir tabelas; interpretar tabelas e gráficos; identificar e calcular medidas de associação apropriadas para  variáveis qualitativas e ou quantitativas; manipular um programa computacional para o cálculo de estatísticas e construção de tabelas e gráficos."
+    ],
+    "regime": "semestral",
+    "turno": {
+        "matutino": true,
+        "noturno": false,
+        "vespertino": true
+    },
+    "unidade": "Centro de Ciências"
+}

@@ -1,0 +1,47 @@
+{
+    "bibliografia": {
+        "basica": [
+            "Goldbarg, M. C. e  Luna, H. P. L., Otimização Combinatória e Programação Linear, Campus, 2005.",
+            "Arenales, M., Armentano, V. A., Morabito, R., Yanasse, H., Pesquisa Operacional, Campus, 2006.",
+            "Site - http://www.latex-project.org/",
+            "Triola, M. F. Introdução à estatística. 3. ed. Rio de Janeiro: LTC, 2008",
+            "Site do Instituto Brasileiro de Geografia e Estatística - IBGE - http://www.ibge.gov.br"
+        ],
+        "complementar": []
+    },
+    "carga-horaria": {
+        "ead": 0,
+        "extensao": 0,
+        "pratica": 0,
+        "semanas": 16,
+        "teorica": 16
+    },
+    "codigo": "CC0284",
+    "curso": {
+        "carater": "Obrigatório",
+        "codigo": "080",
+        "curriculo": "2011.1G",
+        "grau": "Bacharelado",
+        "nome": "Matemática Industrial",
+        "semestre": 2
+    },
+    "departamento": "Estatística e Matemática Aplicada",
+    "ementa": [
+        "Seminários e atividades de orientação acadêmica e de formação básica e profissional, sob orientação de professores tutores."
+    ],
+    "justificativa": "O aluno do ensino médio ao ingressar na universidade deve ser acolhido e informado sobre os diversos aspectos dessa nova etapa.",
+    "nome": "Seminários de Tutoria II",
+    "objetivos": [
+        "Além acolher o aluno recém-ingresso, o principal objetivo é reduzir a evasão desses durante o primeiro ano na universidade."
+    ],
+    "pre-requisitos": [
+        "CC0281"
+    ],
+    "regime": "semestral",
+    "turno": {
+        "matutino": true,
+        "noturno": true,
+        "vespertino": true
+    },
+    "unidade": "Centro de Ciências"
+}

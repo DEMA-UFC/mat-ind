@@ -1,0 +1,50 @@
+{
+    "bibliografia": {
+        "basica": [
+            "TORRES, José Júlio Martins. Projeto Estruturado de Programas - apostila.",
+            "STAA, Arndt Von. Engenharia de Programas. LTC - Livros Técnicos e Científicos.",
+            "WARNIER, Jean Dominique. Lógica de Construção de Programas. Editora Campus. ",
+            "JACKSON, Michael. Princípios em Projetos de Programas. Editora Campus.",
+            "MARTIN, James; MCCLURE, Carma. Técnicas Estruturadas e Case. Makron Books. ",
+            "PAGE-JONES, Meilir. O que Todo Programador Deveria Saber sobre POO. Makron Books. ",
+            "SZMIT, R. Programação Orientada para Objetos com Turbo Pascal."
+        ],
+        "complementar": []
+    },
+    "carga-horaria": {
+        "ead": 0,
+        "extensao": 0,
+        "pratica": 0,
+        "semanas": 16,
+        "teorica": 64
+    },
+    "codigo": "CK0112",
+    "curso": {
+        "carater": "Obrigatório",
+        "codigo": "080",
+        "curriculo": "2011.1G",
+        "grau": "Bacharelado",
+        "nome": "Matemática Industrial",
+        "semestre": 3
+    },
+    "departamento": "Computação",
+    "ementa": [
+        "Técnicas de programação. Projeto estruturado de programas. Projeto lógico de programas. Implementação do projeto. Construção de programas. Testes de programas. Evolução de programas. Ambientes de programação. Ferramentas Case. Programação orientada a objetos. Linguagens de programação orientadas a objetos."
+    ],
+    "equivalencias": [
+        "CK0235"
+    ],
+    "justificativa": "Iniciar os alunos nas técnicas estruturadas de projeto e implementação de programas, abordando definições de conceitos e a evolução das técnicas estruturadas de programação. São apresentadas também as técnicas de projetos, implementação, construção, teste e evolução de programas bem como as técnicas de programação orientadas a objetos.",
+    "nome": "Técnicas de Programação I",
+    "objetivos": [],
+    "pre-requisitos": [
+        "CK0087"
+    ],
+    "regime": "semestral",
+    "turno": {
+        "matutino": true,
+        "noturno": false,
+        "vespertino": false
+    },
+    "unidade": "Centro de Ciências"
+}

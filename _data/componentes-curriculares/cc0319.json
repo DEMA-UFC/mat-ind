@@ -1,0 +1,53 @@
+{
+    "bibliografia": {
+        "basica": [
+            "BUSSAB, W. O.; MORETTIN, P. A. Estatística básica. 6ª. Edição. São Paulo, Ed. Saraiva, 2010. ISBN 9788502081772.",
+            "DANTAS, C.A.B. Probabilidade: Um curso Introdutório. Editora EdUSP, 2000. ISBN: 85-314-0399-5",
+            "HOEL, P. G.; PORT, S. C.; STONE, C. J. Introduction to probability theory. Boston: Houghton Mifflin Company, 1971. ISBN: 0-395-04636-x.",
+            "HOEL, S.C. PORT, C. J. STONE. Introdução à teoria da probabilidade. Editora Interciência, 1978. ",
+            "MELLO, M. P., SANTOS, J. P. O. E MURARI, I. T.C. Introdução à Análise Combinatória. Ciência Moderna, 2ª. Edição, 2008.",
+            "MEYER, P. L. Probabilidade: aplicações à estatística. Rio de Janeiro: LTC, 1983. ISBN: 85-216-0294-4",
+            "MOOD, A. M.; GRAYBILL, F. A.; BOES, D. C. Introduction to the theory of statistcs.13 Editon, McGraw-hill, 1974. ISBN: 0-07-042864-6.",
+            "MORGADO, A. C. O., CARVALHO, J. B. P., CARVALHO, P. C. E FERNANDEZ, P. Análise Combinatória e Probabilidade. SBM, 6ª. Edição, 2004, Coleção do Professor de Matemática.",
+            "ROSS, S. M. A first course in probability. Prentice Hall, 7ed, 2005.  ISBN: 0-13-746314-6.",
+            "ROSS, S. M. Introduction to Probability Models. Academic Press; 9 Edition, 2006. ISBN-10: 0125980620 ISBN-13: 978-0125980623",
+            "ROSS, S. M. Applied Probability Models with Optimization Applications (Dover Books on Mathematics). Dover Publications, 1992. ISBN-10: 0486673146  ISBN-13: 978-0486673141"
+        ],
+        "complementar": []
+    },
+    "carga-horaria": {
+        "ead": 0,
+        "extensao": 0,
+        "pratica": 16,
+        "semanas": 16,
+        "teorica": 80
+    },
+    "codigo": "CC0319",
+    "curso": {
+        "carater": "Obrigatório",
+        "codigo": "080",
+        "curriculo": "2011.1G",
+        "grau": "Bacharelado",
+        "nome": "Matemática Industrial",
+        "semestre": 3
+    },
+    "departamento": "Estatística e Matemática Aplicada",
+    "ementa": [
+        "Combinatória. Probabilidade condicional. Independência. Variáveis aleatórias discretas e contínuas. Esperança e variância de variáveis aleatórias. Variáveis aleatórias com distribuição conjunta."
+    ],
+    "justificativa": "O profissional em matemática industrial necessita ter conhecimentos sobre a teoria das probabilidades, visto que muitos dos problemas reais ligados às empresas podem requer utilização metodologia, tais métodos de simulação, que tem como base o conhecimento de distribuições probabilidades.",
+    "nome": "Cálculo das Probabilidades",
+    "objetivos": [
+        "Propiciar ao aluno um conhecimento sobre a teoria das probabilidades e suas aplicações que permita sua utilização nas disciplinas futuras e na prática do profissional em matemática industrial."
+    ],
+    "pre-requisitos": [
+        "CC0314"
+    ],
+    "regime": "semestral",
+    "turno": {
+        "matutino": true,
+        "noturno": false,
+        "vespertino": true
+    },
+    "unidade": "Centro de Ciências"
+}

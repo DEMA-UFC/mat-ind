@@ -1,0 +1,44 @@
+{
+    "bibliografia": {
+        "basica": [
+            "MARKENSON, Lilian; SZWARCFITER, Jayme L. Estruturas de Dados e Seus Algoritmos. LTC Editora, 1994."
+        ],
+        "complementar": [
+            "CORMEN, T. H.; LEISERSON, C. E.; RIVEST, R. L. Introduction to Algorithms. MIT Press e McGraw-Hill, 1990.",
+            "AHO, V.; ULLMAN, J. D. Foundation of Computer Science. W. H. Freeman Company, 1992."
+        ]
+    },
+    "carga-horaria": {
+        "ead": 0,
+        "extensao": 0,
+        "pratica": 0,
+        "semanas": 16,
+        "teorica": 96
+    },
+    "codigo": "CK0109",
+    "curso": {
+        "carater": "Obrigatório",
+        "codigo": "080",
+        "curriculo": "2011.1G",
+        "grau": "Bacharelado",
+        "nome": "Matemática Industrial",
+        "semestre": 2
+    },
+    "departamento": "Computação",
+    "ementa": [
+        "Introdução. Listas Lineares. Árvores. Árvores balanceadas. Listas de prioridades. Tabelas de dispersão. Busca digital."
+    ],
+    "justificativa": "Apresentação de modelos matemáticos que representam tipos abstratos de dados que ocorrem com frequência em algoritmos, além de operações definidas sobre esses modelos.",
+    "nome": "Estrutura de Dados",
+    "objetivos": [],
+    "pre-requisitos": [
+        "CK0087"
+    ],
+    "regime": "semestral",
+    "turno": {
+        "matutino": true,
+        "noturno": false,
+        "vespertino": true
+    },
+    "unidade": "Centro de Ciências"
+}

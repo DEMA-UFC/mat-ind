@@ -1,0 +1,51 @@
+{
+    "bibliografia": {
+        "basica": [
+            "STEWART, J. Cálculo. Cengage Learning, 6a edição, São Paulo, 2010. Vol. 2.",
+            "ANTON, H. Cálculo: um novo horizonte. Vol. 2, Ed. Bookman, 6a edição, Porto Alegre, 2000.",
+            "KAPLAN, W. Cálculo Avançado. Ed. Edgard Blücher, São Paulo, 2002. Vol. 1."
+        ],
+        "complementar": [
+            "PINTO, D. MORGADO, M. C. F., Cálculo Diferencial e Integral de Funções de Várias Variáveis. Ed. UFRJ, 3a edição, Rio de Janeiro, 2004.",
+            "SWOKOWSKI, E. W. Cálculo com Geometria Analítica. Vol. II, Ed. Makron Books, São Paulo, 1995.",
+            "THOMAS, G. B., FINNEY, M. D., WEIR, F. R., GIORDANO, F. R. Cálculo. Vol. II e III, Ed. Addison Wesley, 2003.",
+            "TROMBA, A. J., MARSDEN, J. E. Vector Calculus. Ed. W. H. Freeman & Company, 5th edition, New York, 2003.",
+            "WILLIAMSON, R. E., CROWELL, R. H., TROTTER, H. F. Cálculo de Funções Vetoriais. Ed. Livros Técnicos e Científicos,"
+        ]
+    },
+    "carga-horaria": {
+        "ead": 0,
+        "extensao": 0,
+        "pratica": 16,
+        "semanas": 16,
+        "teorica": 80
+    },
+    "codigo": "CB0536",
+    "curso": {
+        "carater": "Obrigatório",
+        "codigo": "080",
+        "curriculo": "2011.1G",
+        "grau": "Bacharelado",
+        "nome": "Matemática Industrial",
+        "semestre": 3
+    },
+    "departamento": "Matemática",
+    "ementa": [
+        "Curvas e vetores no espaço; Superfícies, plano e quádricas; Funções de várias variáveis; Limite, continuidade e cálculo diferencial de funções reais de várias variáveis reais; Máximos e mínimos e pontos de cela; Multiplicadores de Lagrange; Máximos e mínimos condicionados; Teoremas da função implícita e inversa; Integrais duplas e triplas; mudança de variáveis; Integrais múltiplas impróprias; Integral de linha escalar e vetorial; Teorema de Green; Parametrização e área de superfícies; Integral de superfície escalar e vetorial; Teorema de Stokes e Gauss; Interpretação física; Campos conservativos."
+    ],
+    "justificativa": "Introduzir o cálculo integral para funções de várias variáveis. Apresentar a teoria do campo.",
+    "nome": "Cálculo Diferencial e Integral III",
+    "objetivos": [
+        "Desenvolver métodos analíticos para aplicações do cálculo de limites, derivadas e integrais de funções de 2 e 3 variáveis. Desenvolver a teoria de máximo e mínimo relativo e absoluto. Desenvolver o estudo de campos vetoriais."
+    ],
+    "pre-requisitos": [
+        "CB0535"
+    ],
+    "regime": "semestral",
+    "turno": {
+        "matutino": true,
+        "noturno": false,
+        "vespertino": true
+    },
+    "unidade": "Centro de Ciências"
+}

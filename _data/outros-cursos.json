@@ -1,0 +1,148 @@
+[
+	{
+		"instituicao": "UFPR - Universidade Federal od Paraná",
+		"nome": "Bacharelado Matemática Industrial",
+		"enfase": [],
+		"tempo": "4 anos",
+		"carga-horaria": 2690,
+		"ano": 2004,
+		"vagas": null
+	},
+	{
+		"instituicao": "UFG - Universidade Federal de Goiás - Campus de Catalão",
+		"nome": "Bacharelado Matemática Industrial",
+		"enfase": [
+			"Otimização e Análise Numérica",
+			"Modelagem Matemática",
+			"Matemática Computacional",
+			"Pesquisa Operacional"
+		],
+		"tempo": "4 anos",
+		"carga-horaria": 3386,
+		"ano": 2009,
+		"vagas": null
+	},
+	{
+		"instituicao": "IBILCE - UNESP - São José do Rio Preto",
+		"nome": "Bacharelado em Matemática Aplicada e Computacional",
+		"enfase": [],
+		"tempo": "4 anos",
+		"carga-horaria": 2460,
+		"ano": 2006,
+		"vagas": null
+	},
+	{
+		"instituicao": "ICMC - ­USP­ - São Carlos",
+		"nome": "Bacharelado em Matemática Aplicada e Computação Científica",
+		"enfase": [
+			"Dinâmica dos Fluidos Computacional",
+			"Estatística",
+			"Matemática Aplicada e Computacional"
+		],
+		"tempo": "4 anos",
+		"ano": 1999,
+		"vagas": 25
+	},
+	{
+		"instituicao": "IME ­- USP ­- São Paulo",
+		"nome": "Bacharelado em Matemática Aplicada (diurno)",
+		"enfase": [
+			"Ciências Biológicas (hab. 101)",
+			"Sistemas e Controle (hab 501)",
+			"Controle e Automação (hab 611)",
+			"Métodos Matemáticos (hab 801)",
+			"Saúde Animal (hab 301)"
+		],
+		"tempo": "4 anos",
+		"ano": null,
+		"vagas": 20
+	},
+	{
+		"instituicao": "IME - USP - São Paulo",
+		"nome": "Bacharelado em Matemática Aplicada e Computacional (noturno)",
+		"enfase": [
+			"Ciências Biológicas (hab. 101)",
+			"Sistemas e Controle (hab 501)",
+			"Controle e Automação (hab 611)",
+			"Métodos Matemáticos (hab 801)",
+			"Saúde Animal (hab 301)",
+			"Estatística Econômica (hab 404)",
+			"Comunicação Científica (hab 704)",
+			"Saúde Pública (hab 904)",
+			"Fisiologia e biofísica (hab 204)"
+		],
+		"tempo": "4 anos",
+		"carga-horaria": null,
+		"ano": null,
+		"vagas": 50
+	},
+	{
+		"instituicao": "FFLCHRP - USP - Ribeirão Preto",
+		"nome": "Bacharelado em Matemática Aplicada a Negócios (diurno)",
+		"enfase": [
+			"Mercados financeiros",
+			"Planejamento regional e políticas fiscais",
+			"Comércio internacional",
+			"Auditoria e consultoria"
+		],
+		"tempo": "4 anos",
+		"carga-horaria": null,
+		"ano": 2007,
+		"vagas": 45
+	},
+	{
+		"instituicao": "IMECC - UNICAMP - Campinas",
+		"nome": "Bacharelado em Matemática Aplicada e Computacional",
+		"enfase": [
+			"Análise Numérica",
+			"Biomatemática",
+			"Física-Matemática",
+			"Matemática Computacional",
+			"Pesquisa Operacional"
+		],
+		"tempo": "4 anos",
+		"carga-horaria": 2400,
+		"ano": 1987,
+		"vagas": 140
+	},
+	{
+		"instituicao": "DMA - IM - UFRJ - Rio de Janeiro",
+		"nome": "Bacharelado em Matemática Aplicada",
+		"enfase": [
+			"Negócios",
+			"Computação Científica",
+			"Ciências Biológicas."
+		],
+		"tempo": "4 anos",
+		"carga-horaria": null,
+		"ano": 2003,
+		"vagas": 20
+	},
+	{
+		"instituicao": "PUC - Rio de Janeiro",
+		"nome": "Bacharelado em Matemática Aplicada",
+		"enfase": [],
+		"tempo": "3.5 anos",
+		"carga-horaria": null,
+		"ano": 2008,
+		"vagas": null
+	},
+	{
+		"instituicao": "IM - UFRGS - RS",
+		"nome": "Bacharelado em Matemática Aplicada",
+		"enfase": [],
+		"tempo": "4 anos",
+		"carga-horaria": 2400,
+		"ano": 1988,
+		"vagas": 46
+	},
+	{
+		"instituicao": "UFMG - MG",
+		"nome": "Matemática Computacional",
+		"enfase": [],
+		"tempo": "4 anos",
+		"carga-horaria": null,
+		"ano": 1999,
+		"vagas": 20
+	}
+]

@@ -1,0 +1,53 @@
+{
+    "bibliografia": {
+        "basica": [
+            "STEWART, J. Cálculo. Vol. 1. Cengage Learning, 6a edição, São Paulo, 2010.",
+            "STEWART, J. Cálculo. Vol. 2. Cengage Learning, 6a edição, São Paulo, 2010.",
+            "LEITHOLD, L. O Cálculo com Geometria Analítica. Vol. 2, Ed. Harbra, 3a edição, 2002."
+        ],
+        "complementar": [
+            "PINTO, D., MORGADO, M. C. F. Cálculo Diferencial e Integral de Funções de Várias Variáveis. Ed. UFRJ, 3a edição, Rio de Janeiro, 2004.",
+            "SANTOS, Â. R. dos; BIANCHINI, W. Aprendendo Cálculo com Maple: cálculo de uma variável. Ed. LTC, 1a edição, Rio de Janeiro, 2002.",
+            "SIMMONS, G. F. Cálculo com Geometria Analítica. Vol.2, Ed. Makron Books Pearson Education, 1a edição, São Paulo, 2003.",
+            "SWOKOWSKI, E. W. Cálculo com Geometria Analítica. Vol. I, Ed. Makron Books, São Paulo, 1995.",
+            "THOMAS, G. B., FINNEY, M. D., WEIR, F. R., GIORDANO, F. R. Cálculo. Vol. I, Ed. Addison Wesley, 2003.",
+            "KHURI, A. I. Advanced Calculus with Applications in Statistics. Ed. John Wiley and Sons, 2nd edition, New Jersey, 2003.",
+            "TROMBA, A. J., MARSDEN, J. E. Vector Calculus. Ed. W. H. Freeman & Company, 5th edition, New York, 2003."
+        ]
+    },
+    "carga-horaria": {
+        "ead": 0,
+        "extensao": 0,
+        "pratica": 16,
+        "semanas": 16,
+        "teorica": 80
+    },
+    "codigo": "CB0535",
+    "curso": {
+        "carater": "Obrigatório",
+        "codigo": "080",
+        "curriculo": "2011.1G",
+        "grau": "Bacharelado",
+        "nome": "Matemática Industrial",
+        "semestre": 2
+    },
+    "departamento": "Matemática",
+    "ementa": [
+        "Técnicas de integração; Integral imprópria; Polinômio de Taylor; Séries Infinitas; Séries de potências; Métodos numéricos para integral definida e cálculo de raízes de funções; coordenadas polares."
+    ],
+    "justificativa": "Induzir o conceito de séries. Aplicar o cálculo diferencial para funções de mais de uma variável.",
+    "nome": "Cálculo Diferencial e Integral II",
+    "objetivos": [
+        "Conhecer as definições, conhecer os exemplos e trabalhar com os métodos de integrações."
+    ],
+    "pre-requisitos": [
+        "CB0534"
+    ],
+    "regime": "semestral",
+    "turno": {
+        "matutino": true,
+        "noturno": false,
+        "vespertino": true
+    },
+    "unidade": "Centro de Ciências"
+}

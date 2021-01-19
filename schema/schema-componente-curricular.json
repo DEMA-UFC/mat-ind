@@ -1,0 +1,247 @@
+{
+	"$schema": "http://json-schema.org/draft-07/schema",
+	"title": "Schema para validar um componente curriculare cadastrado nos sistema",
+	"definitions": {
+		"curso": {
+			"tile": "Curso no formulário de criação de disciplina",
+			"type": "object",
+			"properties": {
+				"codigo": {
+					"type": "string"
+				},
+				"nome": {
+					"type": "string"
+				},
+				"grau": {
+					"type": "string",
+					"enum": [
+						"Bacharelado",
+						"Licenciatura",
+						"Tecnólogo"
+					]
+				},
+				"curriculo": {
+					"type": "string"
+				},
+				"carater": {
+					"type": "string",
+					"enum": [
+						"Obrigatório",
+						"Optativo",
+						"Eletivo"
+					]
+				},
+				"semestre": {
+					"type": "number",
+					"minimum": 1,
+					"maximum": 8
+				},
+				"habilitacao": {
+					"type": "array",
+					"uniqueItems": true,
+					"items": {
+						"type": "string",
+						"enum": [
+							"Pesquisa Operacional",
+							"Matemática Computacional"
+						]
+					}
+				},
+				"unidade-curricular": {
+					"title": "Unidade Curricular conforme Projeto Pedagógico do Curso",
+					"type": "string",
+					"enum": [
+						"Métodos Matemáticos",
+						"Métodos Estatísticos",
+						"Computação",
+						"Pesquisa Operacional",
+						"Formação Complementar"
+					]
+				},
+				"nucleo-formacao": {
+					"title": "Núcleo de Formação conforme Projeto Pedagógico do Curso",
+					"type": "string",
+					"enum": [
+						"Matemática Básica",
+						"Computação",
+						"Estatística",
+						"Matemática Aplicada",
+						"Formação Auxiliar",
+						"Ênfases",
+						"Seminários",
+						"Optativa/Livre",
+						"Estágio/Monografia",
+						"Atividades Complementares"
+					]
+				}
+			},
+			"required": [
+				"codigo",
+				"nome",
+				"grau",
+				"curriculo",
+				"carater"
+			]
+		},
+		"bibliografia": {
+			"title": "item de bibliografia de uma disciplina",
+			"type": "string"
+		}
+	},
+	"type": "object",
+	"properties": {
+		"unidade": {
+			"type": "string"
+		},
+		"departamento": {
+			"type": "string"
+		},
+		"curso": {
+			"$ref": "#/definitions/curso"
+		},
+		"nome": {
+			"type": "string"
+		},
+		"codigo": {
+			"type": "string"
+		},
+		"pre-requisitos": {
+			"type": "array",
+			"uniqueItems": true,
+			"items": {
+				"type": "string"
+			}
+		},
+		"co-requisitos": {
+			"type": "array",
+			"uniqueItems": true,
+			"items": {
+				"type": "string"
+			}
+		},
+		"equivalencias": {
+			"type": "array",
+			"uniqueItems": true,
+			"items": {
+				"type": "string"
+			}
+		},
+		"turno": {
+			"type": "object",
+			"properties": {
+				"matutino": {
+					"type": "boolean"
+				},
+				"vespertino": {
+					"type": "boolean"
+				},
+				"noturno": {
+					"type": "boolean"
+				}
+			},
+			"required": [
+				"matutino",
+				"vespertino",
+				"noturno"
+			]
+		},
+		"regime": {
+			"type": "string",
+			"enum": [
+				"semestral",
+				"anual",
+				"modular"
+			]
+		},
+		"justificativa": {
+			"type": "string",
+			"maxLength": 500
+		},
+		"objetivos": {
+			"type": "array",
+			"items": {
+				"type": "string"
+			}
+		},
+		"ementa": {
+			"$comment": "conforme \"Programa de Disciplina\" aprovado e arquivado pela Unidade Responsável por oferta",
+			"type": "array",
+			"items": {
+				"type": "string"
+			}
+		},
+		"carga-horaria": {
+			"type": "object",
+			"properties": {
+				"semanas": {
+					"type": "number",
+					"minimum": 0
+				},
+				"teorica": {
+					"type": "number",
+					"minimum": 0
+				},
+				"pratica": {
+					"type": "number",
+					"minimum": 0
+				},
+				"ead": {
+					"type": "number",
+					"minimum": 0
+				},
+				"extensao": {
+					"type": "number",
+					"minimum": 0
+				}
+			}
+		},
+		"bibliografia": {
+			"type": "object",
+			"properties": {
+				"basica": {
+					"type": "array",
+					"items": {
+						"$ref": "#/definitions/bibliografia"
+					},
+					"minItems": 3
+				},
+				"complementar": {
+					"type": "array",
+					"items": {
+						"$ref": "#/definitions/bibliografia"
+					},
+					"minItems": 5
+				}
+			}
+		},
+
+		"tipo": {
+			"title": "Campo somente para atividades.",
+			"type": "string",
+			"enum": [
+				"Estágio Supervisionado",
+				"Tutoria/Orientação",
+				"Trabalho de Conclusão de Curso/Monografia",
+				"Atividades Integradoras de Formação"
+			]
+		},
+		"carga-horaria-docente": {
+			"title": "Campo somente para atividades.",
+			"type": "number",
+			"minimum": 0
+		}
+	},
+	"required": [
+		"unidade",
+		"curso",
+		"nome",
+		"codigo",
+		"turno",
+		"regime",
+		"justificativa",
+		"objetivos",
+		"ementa",
+		"carga-horaria",
+		"bibliografia"
+	]
+}

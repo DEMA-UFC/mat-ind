@@ -1,0 +1,47 @@
+{
+    "bibliografia": {
+        "basica": [
+            "GIL, Antônio Carlos. Métodos e Técnicas de Pesquisa Social. São Paulo, Atlas, 1987.",
+            "HUHNE, Leda Maria (org). Metodologia Científica: caderno de textos e técnicas. Rio de Janeiro, Agir, 1987.",
+            "RICHARDSON, Roberto Jarry e colaboradores. Pesquisa Social: métodos e técnicas. São Paulo, Atlas, 1985.",
+            "RUDIO, Franz Victor. Introdução ao Projeto de Pesquisa Científica. 8ª Ed., Petrópolis, Vozes, 1983."
+        ],
+        "complementar": [
+            "ASTI, Vera Armando. Metodologia da Pesquisa Científica. 7ª Ed. Porto Alegre, Globo, 1983.",
+            "LAKATOS, Eva Maria; MARCONI, Marina de Andrade. Fundamentos da Metodologia Científica. São Paulo, Atlas, 1986.",
+            "MARCONI, Marina de Andrade; LAKATOS, Eva Maria. Técnicas de Pesquisa: planejamento e execução de pesquisa, amostragens e técnicas de pesquisa, aboração, análise e interpretação de dados. São Paulo, Atlas, 1982."
+        ]
+    },
+    "carga-horaria": {
+        "ead": 0,
+        "extensao": 0,
+        "pratica": 0,
+        "semanas": 16,
+        "teorica": 64
+    },
+    "codigo": "PB0148",
+    "curso": {
+        "carater": "Obrigatório",
+        "codigo": "080",
+        "curriculo": "2011.1G",
+        "grau": "Bacharelado",
+        "nome": "Matemática Industrial",
+        "semestre": 5
+    },
+    "departamento": "Fundamentos da Educação",
+    "ementa": [
+        "A produção científica na universidade. O uso da biblioteca na exploração de documentação bibliográfica. Diretrizes para a interpretação de textos. Noções sobre método e conhecimento. Exercício teórico-prático de acesso a fontes de informação e de elaboração de relatórios: a pesquisa bibliográfica e de campo."
+    ],
+    "justificativa": "",
+    "nome": "Metodologia Científica",
+    "objetivos": [
+        "Introduzir os conceitos básicos de conhecimento e metodologia científica e fornecer ao aluno as ferramentas científicas necessárias para o desenvolvimento de seus estudos nas universidades."
+    ],
+    "regime": "semestral",
+    "turno": {
+        "matutino": true,
+        "noturno": false,
+        "vespertino": true
+    },
+    "unidade": "Faculdade de Educação"
+}

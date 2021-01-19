@@ -1,0 +1,53 @@
+{
+    "bibliografia": {
+        "basica": [
+            "F. Glover e Kochenberger G.A. Handbook of metaheuristics. Kluwer, 2003.",
+            "El-G. Talbi. Metaheuristics: From design to Implementation. Wiley, 2009.",
+            "B. Golden, S. Raghavan e E. Wasil. The vehicle routing problem: Latest advances and new challenges. Springer, 2010. ",
+            "M. Arenales, V. Armentano, R. Morabito e H. Yanasse. Pesquisa Operacional. Elsevier, 2007.",
+            "M.C. Goldbarg e H.P. Luna. Otimização combinatória e programação linear. Campus/Elsevier, 2005. ",
+            "C.R. Reeves. Modern Heuristic Techniques for Combinatorial Problems. Blackwell Scientif Publications, 1993.",
+            "F. Glover e M. Laguna. Tabu Search. Kluwer, 1997.",
+            "Artigos diversos sobre aplicações de metaheurísticas. Periódicos CAPES."
+        ],
+        "complementar": []
+    },
+    "carga-horaria": {
+        "ead": 0,
+        "extensao": 0,
+        "pratica": 48,
+        "semanas": 16,
+        "teorica": 48
+    },
+    "codigo": "CC0321",
+    "curso": {
+        "carater": "Eletivo",
+        "codigo": "080",
+        "curriculo": "2011.1G",
+        "grau": "Bacharelado",
+        "habilitacao": [
+            "Pesquisa Operacional"
+        ],
+        "nome": "Matemática Industrial",
+        "semestre": 5
+    },
+    "departamento": "Estatística e Matemática Aplicada",
+    "ementa": [
+        "Técnicas para solução de problemas de otimização combinatória: Heurísticas clássicas, Metaheurísticas. Principais metaheurísticas: Recozimento Simulado (Simulated Annealing), Busca Tabu, Busca Local Iterada (Iterated Local Search - ILS), Busca em Vizinhança Variável (Variable Neighborhood Search - VNS), Procedimentos de Busca Adaptativa Aleatória e Gulosa (Greedy Randomized Adaptive Search Procedures - GRASP), Algoritmos Genéticos, Colônia de Formigas, Busca Dispersa (Scatter Search). Aplicações"
+    ],
+    "justificativa": "A disciplina de Otimização Combinatória e Metaheurística apresenta ao aluno diversas formas de resolução de um problema combinatorial. A disciplina contempla aulas expositivas sobre o conteúdo programático e aulas práticas mostrando computacionalmente o desempenho das heurísticas e metaheurísticas estudadas.",
+    "nome": "Otimização Combinatória e Metaheurística",
+    "objetivos": [
+        "Apresentar ao aluno a natureza dos problemas combinatórios e sua dificuldade de resolução. Em seguida, implementar e testar as heurísticas clássicas e as principais metaheurísticas nos diversos problemas combinatoriais."
+    ],
+    "pre-requisitos": [
+        "CC0263"
+    ],
+    "regime": "semestral",
+    "turno": {
+        "matutino": true,
+        "noturno": false,
+        "vespertino": true
+    },
+    "unidade": "Centro de Ciências"
+}

@@ -1,0 +1,47 @@
+{
+    "bibliografia": {
+        "basica": [
+            "G. Golub e C. Van Loan. Matrix Computations. Johhs Hopkins University Press, 3a. Edição, 1996",
+            "D. Watkins. Fundamentals of Matrix Computations. J. Wiley, 2006. ",
+            " J. Demmel. Applied Numerical Linear Algebra. SIAM, 1997. ",
+            "L. Trefethen e D. Bau. Numerical Linear Algebra. SIAM, 2000. ",
+            "P. Gill, W. Murray e M. Wright. Numerical Linear Algebra and Optimization, Addison-Wesley Company, 1991.",
+            "R. Horn e C. Johnson. Matrix Analysis. Cambridge University Press, 1999. "
+        ],
+        "complementar": []
+    },
+    "carga-horaria": {
+        "ead": 0,
+        "extensao": 0,
+        "pratica": 16,
+        "semanas": 16,
+        "teorica": 48
+    },
+    "codigo": "CC0332",
+    "curso": {
+        "carater": "Optativo",
+        "codigo": "080",
+        "curriculo": "2011.1G",
+        "grau": "Bacharelado",
+        "nome": "Matemática Industrial"
+    },
+    "departamento": "Estatística e Matemática Aplicada",
+    "ementa": [
+        "Métodos diretos para sistemas lineares de grande porte. Análise de precisão e refinamento da solução.  Estimativa do condicionamento. Decomposições LU e  Cholesky em bloco. Sistemas tridiagonais e Hessenberg. Ortogonalização e Mínimos quadrados. Decomposição QR em bloco. Determinação numérica do posto da matriz. Decomposição em valores singulares. Determinação de autovalores e autovetores de matrizes simétricas e não simétricas. Métodos de potências e QR. Métodos iterativos para sistemas lineares: Métodos split, Gradientes conjugados e Métodos de Krylov. Pré-condicionadores. Convergência. Implementações computacionais, sequenciais e paralelas."
+    ],
+    "justificativa": "Esse curso revisita os principais métodos e Álgebra Linear Computacional, focando em aspectos como esparsidade, simetria, decomponibilidade em blocos, eficiência computacional, implementações que possam tirar proveito da arquitetura e linguagem utilizadas, de modo a aumentar o desempenho computacional em sistemas de grande porte. Questões relativas à qualidade da solução obtida, como condicionamento do problema, refinamento e precisão da solução também são explorados. Decomposições e métodos mais avançados, que complementam ou generalizam aqueles vistos na primeira disciplina de Álgebra Linear Computacional, integram ainda o escopo desse segundo curso.",
+    "nome": "Álgebra Linear Computacional de Grande Porte",
+    "objetivos": [
+        "Prover o aluno com conhecimento e experiência computacional na solução de problemas de Álgebra Linear, especialmente a resolução de sistemas lineares de grande porte e a determinação de autovalores e autovetores."
+    ],
+    "pre-requisitos": [
+        "CC0325"
+    ],
+    "regime": "semestral",
+    "turno": {
+        "matutino": true,
+        "noturno": false,
+        "vespertino": true
+    },
+    "unidade": "Centro de Ciências"
+}

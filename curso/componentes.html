@@ -1,0 +1,102 @@
+---
+title: Componentes
+curso: Matemática Industrial
+semestres: 8
+---
+{% assign arquivos = site.data.componentes-curriculares %}
+<h1>Componentes do Curso</h1>
+<h2>Obrigatórios ou Eletivos</h2>
+{% for semestre in (1..page.semestres) %}
+	<h3>{{ semestre }}º Semestre</h3>
+	<table>
+		<tr>
+			<th>Código</th>
+			<th>Nome</th>
+			<th>Pré-Requisitos</th>
+			<th>Equivalências</th>
+		</tr>
+		{% for arquivo in arquivos %}
+			{% assign componente = arquivo[1] %}
+			{% if componente.curso.semestre == semestre and componente.curso.nome == page.curso and componente.curso.carater == "Eletivo" or componente.curso.carater == "Obrigatório" %}
+				<tr>
+					<td><a href="componentes/{{ componente.codigo | downcase }}.html">{{ componente.codigo }}</a></td>
+					<td><a href="componentes/{{ componente.codigo | downcase }}.html">{{ componente.nome }}</a></td>
+					<td>
+						{% for cod-pre-requisito in componente.pre-requisitos %}
+							{% assign pre-requisito = arquivos | where: "codigo", cod-pre-requisito | first %}
+								<a href="componentes/{{ pre-requisito.codigo | downcase }}.html" title="{{ pre-requisito.nome }}">{{ pre-requisito.codigo }}</a>
+						{% endfor %}
+					</td>
+					<td>
+						{% for cod-equivalencia in componente.equivalencias %}
+							{% assign equivalencia = arquivos | where: "codigo", cod-equivalencia | first %}
+								<a href="componentes/{{ equivalencia.codigo | downcase }}.html" title="{{ equivalencia.nome }}">{{ equivalencia.codigo }}</a>
+						{% endfor %}
+					</td>
+				</tr>
+			{% endif %}
+		{% endfor %}
+	</table>
+{% endfor %}
+<h3>Sem Semestre Definido</h3>
+<table>
+	<tr>
+		<th>Código</th>
+		<th>Nome</th>
+		<th>Pré-Requisitos</th>
+		<th>Equivalências</th>
+	</tr>
+	{% for arquivo in arquivos %}
+		{% assign componente = arquivo[1] %}
+		{% if componente.curso.nome == page.curso and componente.curso.carater == "Eletivo" or componente.curso.carater == "Obrigatório" %}
+			{% unless componente.curso.semestre %}
+				<tr>
+					<td><a href="componentes/{{ componente.codigo | downcase }}.html">{{ componente.codigo }}</a></td>
+					<td><a href="componentes/{{ componente.codigo | downcase }}.html">{{ componente.nome }}</a></td>
+					<td>
+						{% for cod-pre-requisito in componente.pre-requisitos %}
+							{% assign pre-requisito = arquivos | where: "codigo", cod-pre-requisito | first %}
+								<a href="componentes/{{ pre-requisito.codigo | downcase }}.html" title="{{ pre-requisito.nome }}">{{ pre-requisito.codigo }}</a>
+						{% endfor %}
+					</td>
+					<td>
+						{% for cod-equivalencia in componente.equivalencias %}
+							{% assign equivalencia = arquivos | where: "codigo", cod-equivalencia | first %}
+								<a href="componentes/{{ equivalencia.codigo | downcase }}.html" title="{{ equivalencia.nome }}">{{ equivalencia.codigo }}</a>
+						{% endfor %}
+					</td>
+				</tr>
+			{% endunless %}
+		{% endif %}
+	{% endfor %}
+</table>
+<h2>Optativas</h2>
+<table>
+	<tr>
+		<th>Código</th>
+		<th>Nome</th>
+		<th>Pré-Requisitos</th>
+		<th>Equivalências</th>
+	</tr>
+	{% for arquivo in arquivos %}
+		{% assign componente = arquivo[1] %}
+		{% if componente.curso.carater == "Optativo" %}
+			<tr>
+				<td><a href="componentes/{{ componente.codigo | downcase }}.html">{{ componente.codigo }}</a></td>
+				<td><a href="componentes/{{ componente.codigo | downcase }}.html">{{ componente.nome }}</a></td>
+				<td>
+					{% for cod-pre-requisito in componente.pre-requisitos %}
+						{% assign pre-requisito = arquivos | where: "codigo", cod-pre-requisito | first %}
+							<a href="componentes/{{ pre-requisito.codigo | downcase }}.html" title="{{ pre-requisito.nome }}">{{ pre-requisito.codigo }}</a>
+					{% endfor %}
+				</td>
+				<td>
+					{% for cod-equivalencia in componente.equivalencias %}
+						{% assign equivalencia = arquivos | where: "codigo", cod-equivalencia | first %}
+							<a href="componentes/{{ equivalencia.codigo | downcase }}.html" title="{{ equivalencia.nome }}">{{ equivalencia.codigo }}</a>
+					{% endfor %}
+				</td>
+	</tr>
+		{% endif %}
+	{% endfor %}
+</table>

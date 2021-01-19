@@ -1,0 +1,29 @@
+// Gerado pelo script generate_figure_integralizacao.py
+digraph "Integralização Curricular" {
+	graph [bgcolor=transparent rankdir=TD ranksep=2]
+	node [shape=rect style=rounded]
+	subgraph "cluster_1º Semestre" {
+		label="1º Semestre" pencolor=black style=rounded tooltip="1º Semestre"
+	}
+	subgraph "cluster_2º Semestre" {
+		label="2º Semestre" pencolor=black style=rounded tooltip="2º Semestre"
+	}
+	subgraph "cluster_3º Semestre" {
+		label="3º Semestre" pencolor=black style=rounded tooltip="3º Semestre"
+	}
+	subgraph "cluster_4º Semestre" {
+		label="4º Semestre" pencolor=black style=rounded tooltip="4º Semestre"
+	}
+	subgraph "cluster_5º Semestre" {
+		label="5º Semestre" pencolor=black style=rounded tooltip="5º Semestre"
+	}
+	subgraph "cluster_6º Semestre" {
+		label="6º Semestre" pencolor=black style=rounded tooltip="6º Semestre"
+		CC0325 [label=CC0325 href="../../curso/componentes/cc0325.html" tooltip="Álgebra Linear Computacional"]
+	}
+	subgraph cluster_Nenhum {
+		label=Nenhum pencolor=black style=rounded tooltip=Nenhum
+		CC0332 [label=CC0332 href="../../curso/componentes/cc0332.html" tooltip="Álgebra Linear Computacional de Grande Porte"]
+	}
+	CC0325 -> CC0332
+}

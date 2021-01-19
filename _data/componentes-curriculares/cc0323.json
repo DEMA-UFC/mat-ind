@@ -1,0 +1,53 @@
+{
+    "bibliografia": {
+        "basica": [
+            "E.K.P. Chong, S.H. Zak. An introduction to optimization 3ª Ed. Wiley-Iterscience, 2008.",
+            "D. G. Luenberger, Y. Ye, Linear and nonlinear programming 3ª Ed. Springer, 2008.",
+            "R. Fletcher. Practical methods of optimization.  Wiley, 2000.",
+            "A. Friedlander. Elementos de programação não-linear. Unicamp, 1994.",
+            "A. Izmailov, M. Solodov1. Otimização Vol. 1, Condições de otimalidade, elementos de análise convexa e de dualidade. IMPA, 2005.",
+            "A. Izmailov, M. Solodov. Otimização Vol. 2, Métodos Computacionais, elementos de análise convexa e de dualidade. IMPA, 2007."
+        ],
+        "complementar": []
+    },
+    "carga-horaria": {
+        "ead": 0,
+        "extensao": 0,
+        "pratica": 16,
+        "semanas": 16,
+        "teorica": 48
+    },
+    "codigo": "CC0323",
+    "curso": {
+        "carater": "Eletivo",
+        "codigo": "080",
+        "curriculo": "2011.1G",
+        "grau": "Bacharelado",
+        "habilitacao": [
+            "Pesquisa Operacional",
+            "Matemática Computacional"
+        ],
+        "nome": "Matemática Industrial",
+        "semestre": 5
+    },
+    "departamento": "Estatística e Matemática Aplicada",
+    "ementa": [
+        "Definição e classificação de problemas de otimização; Definição de algoritmos iterativos e convergência; Condições de otimalidade em problemas irrestritos; Convexidade e suas relações com a otimização; Convergência global de algoritmos de descida; Velocidade de convergência; Busca unidimensional; Métodos básicos de minimização multidimensional irrestrita: gradiente, Newton e Broyden; Condições de otimalidade em problemas restritos (KKT); Dualidade global e local; Métodos básicos de minimização multidimensional em problemas restritos: métodos de penalidade, métodos de barreira, programação quadrática sequencial e gradiente reduzido generalizado."
+    ],
+    "justificativa": "O campo da otimização possui dois ramos centrais: a programação linear e a programação não-linear. Esta última com diversas aplicações nas mais diversas áreas desde estatística, passando por física e, consequentemente, engenharias. Os métodos e tecnologias da programação não-linear partem do cálculo e álgebra linear, mas seguem estruturação específica, carecendo portanto de tratamento individualizado.",
+    "nome": "Programação Não-Linear",
+    "objetivos": [
+        "Apresentar os conceitos fundamentais da programação não-linear: a caracterização dos problemas não-lineares uni e multidimensionais, condições de otimalidade, definição formal de algoritmo,  métodos clássicos de otimização e sua convergência."
+    ],
+    "pre-requisitos": [
+        "CB0535",
+        "CB0589"
+    ],
+    "regime": "semestral",
+    "turno": {
+        "matutino": true,
+        "noturno": false,
+        "vespertino": true
+    },
+    "unidade": "Centro de Ciências"
+}
