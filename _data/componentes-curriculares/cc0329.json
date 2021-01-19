@@ -1,0 +1,48 @@
+{
+    "bibliografia": {
+        "basica": [
+            "Guia de Normalização de Trabalhos Acadêmicos da Universidade Federal do Ceará, 2012., http://www.biblioteca.ufc.br/ acessado em 05/2012.",
+            "Periódicos diversos. http://www.periodicos.capes.gov.br/ acessado em 05/2012."
+        ],
+        "complementar": []
+    },
+    "carga-horaria": {
+        "ead": 0,
+        "extensao": 0,
+        "pratica": 32,
+        "semanas": 16,
+        "teorica": 32
+    },
+    "codigo": "CC0329",
+    "curso": {
+        "carater": "Eletivo",
+        "codigo": "080",
+        "curriculo": "2011.1G",
+        "grau": "Bacharelado",
+        "habilitacao": [
+            "Matemática Computacional"
+        ],
+        "nome": "Matemática Industrial",
+        "semestre": 7
+    },
+    "departamento": "Estatística e Matemática Aplicada",
+    "ementa": [
+        "Disciplina com ementa aberta, com tópicos variáveis, não contemplados integralmente nas demais disciplinas, oferecida por solicitação do professor do corpo docente, com aprovação do colegiado. O professor deverá definir um subtítulo e apresentar uma ementa na área de concentração de Matemática Computacional."
+    ],
+    "justificativa": "Disciplina com conteúdos variados, não contemplados integralmente nas demais disciplinas.",
+    "nome": "Laboratório de Matemática Industrial",
+    "objetivos": [
+        "Apresentar e discutir tópicos variados com aplicações em Matemática Computacional."
+    ],
+    "pre-requisitos": [
+        "CK0019",
+        "CK0047"
+    ],
+    "regime": "semestral",
+    "turno": {
+        "matutino": true,
+        "noturno": false,
+        "vespertino": true
+    },
+    "unidade": "Centro de Ciências"
+}

@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<h1>Ata de reunião do {{ page.orgao }}</h1>
+<h2>Ocorrida em: {{ page.data | date: "%d/%m/%Y" }}</h2>
+<h2>Participantes</h2>
+<ul>
+{% for participante in page.participantes %}
+    <li>{{ participante }}</li>
+{% endfor %}
+</ul>
+<h2>Conteúdo</h2>
+{{ content }}
+{% if page.orgao == "Núcleo Docente Estruturante" %}
+    {% assign prefixo = "nde" %}
+{% endif %}
+{% if page.orgao == "Colégiado da Coordenação" %}
+    {% assign prefixo = "colegiado" %}
+{% endif %}
+
+O arquivo original pode ser encontrado <a href="../../assets/pdfs/atas/{{ prefixo }}-{{page.data}}.html">aqui</a>.

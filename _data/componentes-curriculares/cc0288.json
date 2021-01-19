@@ -1,0 +1,51 @@
+{
+    "bibliografia": {
+        "basica": [
+            "Bussab, W.O. e Morettin, P.A. (2010). Estatística Básica, 6a edição. Saraiva: São Paulo.",
+            "Casella, G. e Berger, L.R. (2001). Statistical Inference, 2nd edition. Duxbury Press: New York.",
+            "Casella, G. e Berger, L.R. (2011). Inferência Estatística, tradução da 2a edicao norte-americana. São Paulo: CENGACE Learning.",
+            "Devore, J.L. (2006). Probabilidade e Estatística para Engenharia e Ciências. Thomson: São Paulo.",
+            "Mood, A. M., Graybill, F  e  Boes, D. C . (1974). Introduction to the Theory of Statistics, 3rd edition. McGraw-Hill: New York.",
+            "Bolfarine, H. e Sandoval, M. C. (2001).  Introdução à Inferência Estatística. Coleção Matemática Aplicada. Editora SBM: Rio de Janeiro.",
+            "Bickel, P.J. e Doksum, K.A. (2007). Mathematical Statistics, vol I 2nd edition. Prentice Hall: New Jersey.",
+            "Dudewicz, E.J. e Mishra, S.N. (1988). Modern Mathematical Statistics. John Wiley: New York."
+        ],
+        "complementar": []
+    },
+    "carga-horaria": {
+        "ead": 0,
+        "extensao": 0,
+        "pratica": 0,
+        "semanas": 16,
+        "teorica": 96
+    },
+    "codigo": "CC0288",
+    "curso": {
+        "carater": "Obrigatório",
+        "codigo": "080",
+        "curriculo": "2011.1G",
+        "grau": "Bacharelado",
+        "nome": "Matemática Industrial",
+        "semestre": 5
+    },
+    "departamento": "Estatística e Matemática Aplicada",
+    "ementa": [
+        "Conceitos de população e amostra; parâmetros, estatísticas, estimadores e suas propriedades; Distribuições amostrais; Métodos de estimação pontual: momentos, máxima verossimilhança, mínimos quadrados; Estimação intervalar; testes de hipóteses; Testes de homogeneidade e independência."
+    ],
+    "justificativa": "Familiarizar o aluno com os conceitos básicos e inferência Estatística, permitindo que o mesmo possa entender o processo inferencial, no que diz respeito à amostragem, estimação e testes de hipótese. O aluno deve estar apto a fazer com testes de envolvendo os parâmetros mais usuais (média, variância e proporção).",
+    "nome": "Inferência Estatística I",
+    "objetivos": [
+        "Conhecer conceitos próprios da Inferência Estatística; estabelecer distribuições amostrais de estimadores e suas propriedades; identificar e fazer uso dos métodos de estimação; obter estimadores pontuais e intervalares; realizar testes de hipóteses."
+    ],
+    "pre-requisitos": [
+        "CB0536",
+        "CC0319"
+    ],
+    "regime": "semestral",
+    "turno": {
+        "matutino": true,
+        "noturno": false,
+        "vespertino": true
+    },
+    "unidade": "Centro de Ciências"
+}

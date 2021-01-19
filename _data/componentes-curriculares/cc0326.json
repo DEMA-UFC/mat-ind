@@ -1,0 +1,55 @@
+{
+    "bibliografia": {
+        "basica": [
+            "D. G. de Figueiredo, A. F. Neves. Equações diferenciais aplicadas. IMPA, 2002.",
+            "Quarteroni, F. Saleri, P. Gervasio. Scientific computing with MATLAB and Octave. Springer, 2010.",
+            "Quarteroni, R. Sacco, F. Saleri. Numerical mathematics. Springer, 2007.",
+            "Tveito, R. Winther. Introduction to partial differential equations: a computational approach. Springer, 1998.",
+            "R. L. Burden, J. D. Faires. Análise numérica. Pioneira Thomson Learning, 2008.",
+            "D. G. Zill, M. R. Cullen. Equações diferenciais, Volume 1. Makron Books, 2001.",
+            "D. G. Zill, M. R. Cullen. Equações diferenciais, Volume 2. Makron Books, 2000.",
+            "W. E. Boyce. Elementary differential equations and boundary value problems. John Wiley, 2006.",
+            "R. Bronson. Differential equations. McGraw-Hill, 2003."
+        ],
+        "complementar": []
+    },
+    "carga-horaria": {
+        "ead": 0,
+        "extensao": 0,
+        "pratica": 16,
+        "semanas": 16,
+        "teorica": 48
+    },
+    "codigo": "CC0326",
+    "curso": {
+        "carater": "Eletivo",
+        "codigo": "080",
+        "curriculo": "2011.1G",
+        "grau": "Bacharelado",
+        "habilitacao": [
+            "Matemática Computacional"
+        ],
+        "nome": "Matemática Industrial",
+        "semestre": 6
+    },
+    "departamento": "Estatística e Matemática Aplicada",
+    "ementa": [
+        "O problema de Cauchy, métodos de passo único, equações de diferença, métodos de múltiplos passos, métodos preditores-corretores, métodos Runge-Kutta, sistemas de EDO's, problemas de valor de fronteira, aproximação por diferenças e elementos finitos para o problema de Poisson, aproximação por diferenças e elementos finitos para a equação do calor, equações hiperbólicas, diferenças finitas para a equação do transporte, elementos finitos para a equação de advecção, método de diferenças finitas para a equação de onda e método de elementos finitos para equações hiperbólicas."
+    ],
+    "justificativa": "As equações diferenciais fazem parte dos modelos de inúmeros ramos da ciência e tecnologia, em especial, daqueles que se baseiam em princípios físicos. Contudo, somente um número muito restrito de equações diferenciais possui solução analítica expressa em uma forma fechada, sendo, portanto necessários o estudo e o desenvolvimento de métodos numéricos para as equações diferenciais. Nesta disciplina, alguns métodos para EDO's abordados em Métodos Numéricos são revisitados, mas o escopo se estende para os métodos numéricos em equações diferenciais parciais e análise de convergência.",
+    "nome": "Métodos Numéricos para Equações Diferenciais",
+    "objetivos": [
+        "Conduzir o aluno no desenvolvimento de conhecimento e experiência em métodos numéricos para equações diferenciais."
+    ],
+    "pre-requisitos": [
+        "CK0048",
+        "CB0591"
+    ],
+    "regime": "semestral",
+    "turno": {
+        "matutino": true,
+        "noturno": false,
+        "vespertino": true
+    },
+    "unidade": "Centro de Ciências"
+}

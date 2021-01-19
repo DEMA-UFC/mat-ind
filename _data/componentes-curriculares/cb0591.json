@@ -1,0 +1,44 @@
+{
+    "bibliografia": {
+        "basica": [
+            "KAPLAN, Wilfred. Cálculo Avançado. São Paulo, Editora Edgard Blucher Ltda, 1972, 2v.",
+            "GUIDORIZZI, Hamilton Luiz. Um Curso de Cálculo. Rio de Janeiro:  LTC – Livros Técnicos e Científicos Editora, 1983. Vol. 2 e 4."
+        ],
+        "complementar": [
+            "AYRES JR., Frank. Equações Diferenciais. Rio de Janeiro: Livro Técnico S.A., 1963."
+        ]
+    },
+    "carga-horaria": {
+        "ead": 0,
+        "extensao": 0,
+        "pratica": 0,
+        "semanas": 16,
+        "teorica": 64
+    },
+    "codigo": "CB0591",
+    "curso": {
+        "carater": "Obrigatório",
+        "codigo": "080",
+        "curriculo": "2011.1G",
+        "grau": "Bacharelado",
+        "nome": "Matemática Industrial",
+        "semestre": 5
+    },
+    "departamento": "Matemática",
+    "ementa": [
+        "Séries de funções. Séries de Fourier. Equações diferenciais de 1ª e 2ª ordem."
+    ],
+    "justificativa": "",
+    "nome": "Séries de Funções e Equações Diferenciais Ordinárias",
+    "objetivos": [],
+    "pre-requisitos": [
+        "CB0589"
+    ],
+    "regime": "semestral",
+    "turno": {
+        "matutino": true,
+        "noturno": false,
+        "vespertino": true
+    },
+    "unidade": "Centro de Ciências"
+}

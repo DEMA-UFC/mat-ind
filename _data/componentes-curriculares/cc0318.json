@@ -1,0 +1,45 @@
+{
+    "bibliografia": {
+        "basica": [
+            "Stela C. Bertholo Piconez (coord.); Ivani Catarina Arantes Fazenda - A Prática de ensino e o estágio supervisionado, 23. ed. Publicação Campinas, SP :   Papirus,   2010.",
+            "Bianchi, Anna Cecília de Moraes - Manual de orientação: Estágio supervisionado, 4. ed. São Paulo, SP :   Cengage Learning,   2011.",
+            "Guia de Normalização de Trabalhos Acadêmicos da Universidade Federal do Ceará, 2012., http://www.biblioteca.ufc.br/ acessado em 05/2012."
+        ],
+        "complementar": []
+    },
+    "carga-horaria": {
+        "ead": 0,
+        "extensao": 0,
+        "pratica": 128,
+        "semanas": 16,
+        "teorica": 32
+    },
+    "codigo": "CC0318",
+    "curso": {
+        "carater": "Obrigatório",
+        "codigo": "080",
+        "curriculo": "2011.1G",
+        "grau": "Bacharelado",
+        "nome": "Matemática Industrial",
+        "semestre": 8
+    },
+    "departamento": "Estatística e Matemática Aplicada",
+    "ementa": [
+        "Aprofundar o conhecimento e a prática profissional, capacitando o estudante para o trabalho integrado, concretizando objetivos previamente estabelecidos."
+    ],
+    "justificativa": "Nessa disciplina o aluno através de estágio supervisionado aprimorará suas habilidades específicas no ambiente de trabalho. Ao final o aluno apresentará um relatório final que será avaliado por uma banca examinadora",
+    "nome": "Estágio Supervisionado II",
+    "objetivos": [
+        "Aprofundar habilidades específicas, observando as necessidades da sociedade e o mercado de trabalho."
+    ],
+    "pre-requisitos": [
+        "CC0317"
+    ],
+    "regime": "semestral",
+    "turno": {
+        "matutino": true,
+        "noturno": false,
+        "vespertino": true
+    },
+    "unidade": "Centro de Ciências"
+}

@@ -1,0 +1,54 @@
+{
+    "bibliografia": {
+        "basica": [
+            "Ruggiero, M.A.G. e Lopes, V.L.R., Cálculo Numérico. Makron Books, 1996.",
+            "Cláudio, D.M. e Marins, J.M., Cálculo Numérico Computacional. Atlas, 1988.",
+            "Barroso, L. at al., Cálculo Numérico. Harbra, 1987.",
+            "Ruas, V., Curso de Cálculo Numérico. LTC, 1983.",
+            "Conte, S.D., Elementos de Análise Numérica. Globo, 1971.",
+            "Dorn, W.S. e McCracken, D.D., Cálculo Numérico com Estudos de Casos em Fortran. Campus, 1978.",
+            "Forsythe, R. at al., Numerical Methods for Mathematical Computations. Prentice-Hall Inc., 1979.",
+            "Press, W.H. at al., Numerical Recipes- The Art of Scientific Computing. Cambridge Univ. Press, 1986."
+        ],
+        "complementar": []
+    },
+    "carga-horaria": {
+        "ead": 0,
+        "extensao": 0,
+        "pratica": 0,
+        "semanas": 16,
+        "teorica": 64
+    },
+    "codigo": "CK0047",
+    "curso": {
+        "carater": "Eletivo",
+        "codigo": "080",
+        "curriculo": "2011.1G",
+        "grau": "Bacharelado",
+        "habilitacao": [
+            "Matemática Computacional"
+        ],
+        "nome": "Matemática Industrial",
+        "semestre": 4
+    },
+    "departamento": "Computação",
+    "ementa": [
+        "Introdução a Métodos Numéricos; Teoria dos Erros; Raízes de Equações Algébricas Não-Lineares; Sistemas de Equações Algébricas Lineares; Aproximação Numérica."
+    ],
+    "equivalencias": [
+        "CK0175"
+    ],
+    "justificativa": "",
+    "nome": "Métodos Numéricos I",
+    "objetivos": [],
+    "pre-requisitos": [
+        "CK0087"
+    ],
+    "regime": "semestral",
+    "turno": {
+        "matutino": true,
+        "noturno": false,
+        "vespertino": true
+    },
+    "unidade": "Centro de Ciências"
+}

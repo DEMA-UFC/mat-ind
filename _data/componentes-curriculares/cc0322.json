@@ -1,0 +1,47 @@
+{
+    "bibliografia": {
+        "basica": [
+            "AHUJA R.K., MAGNANTI T.L., ORLIN J.B., Network Flows - theory, algorithms and applications. Prentice Hall 1993.",
+            "ARENALES, M., ARMENTANO, V., MORABITO, R., YANASSE, H. Pesquisa Operacional, Ed. Campus, 3a edição, 2007.",
+            "GOLBARG, M. C., LUNNA. H. P. L. Otimização Combinatória e Programação Linear - Modelos e Algoritmos, Ed. Campus, 2a edição, 2005."
+        ],
+        "complementar": [
+            "FAURE, R., LEMAIRE,B., PICOULEAU, C. Précis de recherche opérationnelle – méthodes et exercices d´applications, Ed. DUNOD, 5a édition, 2000."
+        ]
+    },
+    "carga-horaria": {
+        "ead": 0,
+        "extensao": 0,
+        "pratica": 16,
+        "semanas": 16,
+        "teorica": 48
+    },
+    "codigo": "CC0322",
+    "curso": {
+        "carater": "Eletivo",
+        "codigo": "080",
+        "curriculo": "2011.1G",
+        "grau": "Bacharelado",
+        "habilitacao": [
+            "Pesquisa Operacional"
+        ],
+        "nome": "Matemática Industrial",
+        "semestre": 5
+    },
+    "departamento": "Estatística e Matemática Aplicada",
+    "ementa": [
+        "Conceitos e definições de grafos. Representação de grafos. Grafos Eulerianos e Hamiltonianos. Percurso em grafos. Conexidade. Árvore geradora mínima e variações. Caminhos mínimos. Fluxo máximo e variações. Emparelhamentos. Localização de facilidades. Coloração. Problemas de transporte. Aplicações em grafos."
+    ],
+    "justificativa": "Grande parte dos problemas de otimização combinatória de alta complexidade computacional ocorre em uma estrutura denominada de rede ou grafo (um conjunto de pontos relacionados por um conjunto de conexões entre eles). Exemplos práticos são as redes de transporte de corrente elétrica, de telecomunicações, de transporte terrestre e ferroviário, de abastecimento de água, de coleta e transporte de petróleo bruto de poços à refinarias, etc. Quantos aos diversos tipos de problemas com essa estrutura, citamos o roteamento de custo mínimo entre dois pontos de uma rede terrestre, o transporte de dados em redes de telecomunicações e expansão de capacidade de transporte de tais redes, localização de estações de base de transmissão celular e alocação de freqüências de comunicação entre elas, etc. Modelos matemáticos para esses problemas são obtidos a partir da estrutura em grafo que o representa e as técnicas de resolução são baseadas em algoritmos clássicos em grafos envolvendo, por exemplo, percurso, árvore geradora, emparelhamento, coloração de vértices ou arestas, etc.",
+    "nome": "Otimização em Redes",
+    "objetivos": [
+        "Possibilitar ao aluno aprofundar seus conhecimentos em problemas práticos de otimização combinatória com estrutura de rede, desenvolvendo algoritmos específicos para esses problemas."
+    ],
+    "regime": "semestral",
+    "turno": {
+        "matutino": true,
+        "noturno": false,
+        "vespertino": true
+    },
+    "unidade": "Centro de Ciências"
+}

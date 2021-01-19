@@ -1,0 +1,50 @@
+{
+    "bibliografia": {
+        "basica": [
+            "BREGALDA, P. F., BORNSTEIN, C. T., OLIVEIRA, A. A. F., Introdução à Programação Linear, Ed. Campus, 1981.",
+            "GOLBARG, M. C., LUNNA. H. P. L. Otimização Combinatória e Programação Linear - Modelos e Algoritmos, Ed. Campus, 2a edição, 2005.",
+            "ARENALES, M., ARMENTANO, V., MORABITO, R., YANASSE, H. Pesquisa Operacional, Ed. Campus, 3a edição, 2007.",
+            "FAMPA,  M. H. C., MACULAN, N. Otimização Linear, Ed. UNB, 2006.",
+            "Chvátal, V., Linear Programming, Ed. W. H. Freeman & Co., 1983.",
+            "Bazaraa, M. S., Jarvis, J.J. Linear Programming and Network Flows, Ed. John Wiley and Sons, New York, 1977.",
+            "Murty, K. C., Linear Programming, Ed. John Wiley and Sons, New York, 1983.",
+            "Vanderbei, R. Linear Programming - Foundations and Extensions, Ed. Kluwer, Boston, 1996."
+        ],
+        "complementar": []
+    },
+    "carga-horaria": {
+        "ead": 0,
+        "extensao": 0,
+        "pratica": 16,
+        "semanas": 16,
+        "teorica": 48
+    },
+    "codigo": "CC0263",
+    "curso": {
+        "carater": "Obrigatório",
+        "codigo": "080",
+        "curriculo": "2011.1G",
+        "grau": "Bacharelado",
+        "nome": "Matemática Industrial",
+        "semestre": 3
+    },
+    "departamento": "Estatística e Matemática Aplicada",
+    "ementa": [
+        "Modelagem de Problemas de Programação Linear (PPL); Resolução gráfica de PPL no Plano Euclidiano; Forma padrão de um PPL; Fundamentação teórica do Método Simplex; O Algoritmo Simplex e suas Variantes; Degeneração; Dualidade; Análise de Sensibilidade; Uso de software para a Resolução de PPL."
+    ],
+    "justificativa": "Estudar o algoritmo SIMPLEX e suas variantes, assim como a teoria da dualidade e análise de sensibilidade em Programação Linear. Desenvolver o interesse pela modelagem matemática de PPL para problemas de Logística, Produção, Telecomunicações, Transportes, dentre outros. Usar ferramentas computacionais para a resolução de PPL.",
+    "nome": "Programação Linear",
+    "objetivos": [
+        "Apresentar os conceitos e técnicas de programação linear. Estudar o método SIMPLEX e suas variações."
+    ],
+    "pre-requisitos": [
+        "CB0589"
+    ],
+    "regime": "semestral",
+    "turno": {
+        "matutino": true,
+        "noturno": false,
+        "vespertino": true
+    },
+    "unidade": "Centro de Ciências"
+}

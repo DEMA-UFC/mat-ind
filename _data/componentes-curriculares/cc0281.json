@@ -1,0 +1,43 @@
+{
+    "bibliografia": {
+        "basica": [
+            "Projeto Político Pedagógico do curso de Matemática Industrial",
+            "Projeto Político Pedagógico do curso de Estatística",
+            "Manual do Aluno, Pró-reitoria de graduação - http://www.prograd.ufc.br",
+            "Site da Universidade Federal do Ceará - http://www.ufc.br"
+        ],
+        "complementar": []
+    },
+    "carga-horaria": {
+        "ead": 0,
+        "extensao": 0,
+        "pratica": 0,
+        "semanas": 16,
+        "teorica": 16
+    },
+    "codigo": "CC0281",
+    "curso": {
+        "carater": "Obrigatório",
+        "codigo": "080",
+        "curriculo": "2011.1G",
+        "grau": "Bacharelado",
+        "nome": "Matemática Industrial",
+        "semestre": 1
+    },
+    "departamento": "Estatística e Matemática Aplicada",
+    "ementa": [
+        "Seminários e atividades de orientação acadêmica e de formação básica e profissional, sob orientação de professores tutores."
+    ],
+    "justificativa": "O aluno do ensino médio ao ingressar na universidade deve ser acolhido e informado sobre os diversos aspectos dessa nova etapa.",
+    "nome": "Seminários de Tutoria I",
+    "objetivos": [
+        "Além acolher o aluno recém-ingresso, o principal objetivo é reduzir a evasão desses durante o primeiro ano na universidade."
+    ],
+    "regime": "semestral",
+    "turno": {
+        "matutino": true,
+        "noturno": true,
+        "vespertino": true
+    },
+    "unidade": "Centro de Ciências"
+}

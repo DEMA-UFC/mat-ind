@@ -1,0 +1,47 @@
+{
+    "bibliografia": {
+        "basica": [
+            "GUIMARÃES, Ângelo de Moura; LAGES, Newton Alberto de Castilho. Algoritmos e Estrutura de Dados. LTC, Rio de Janeiro, 1988.",
+            "O’BRIEN, Stephen. Turbo Pascal 6 - Completo e Total. Makron Books, 1993."
+        ],
+        "complementar": [
+            "DROMEY, R. G. How to Solve It by Computer. Prentice-Hall, 1982.",
+            "GRAHAM, Ronal L.; KNUTH, Donald E.; PATASHNIK, Oren. Matemática Concreta - Fundamentos para a Ciência da Computação. LTC, 1995.",
+            "KNUTH, D. The Art of Computer Programming - Fundamental Algorithms. Addison-Wesley, 1977.",
+            "TREMBLAY, Jean-Paul. BUNT, Richard B. Ciência dos Computadores - Uma Abordagem Algorítmica. McGraw-Hill, 1983"
+        ]
+    },
+    "carga-horaria": {
+        "ead": 0,
+        "extensao": 0,
+        "pratica": 32,
+        "semanas": 16,
+        "teorica": 64
+    },
+    "codigo": "CK0087",
+    "curso": {
+        "carater": "Obrigatório",
+        "codigo": "080",
+        "curriculo": "2011.1G",
+        "grau": "Bacharelado",
+        "nome": "Matemática Industrial",
+        "semestre": 1
+    },
+    "departamento": "Computação",
+    "ementa": [
+        "Apresentação dos fundamentos e das técnicas necessárias para o desenvolvimento de soluções de problemas através do computador. Inicialmente é abordada a metodologia para a construção de algoritmos, apoiada no uso do Teorema da Estrutura. Dessa forma, são detalhadas as estruturas básicas de programação, a “sequência”, o “desvio” e o “laço”, tudo apoiado por uma pseudo linguagem de programação. Segue-se uma introdução à programação, dispositivo para armazenamento de dados; instruções para implementação para o uso de arquivo de dados."
+    ],
+    "equivalencias": [
+        "CK0030"
+    ],
+    "justificativa": "Apresentar os fundamentos e as técnicas necessárias para o desenvolvimento de soluções de problemas através do computador. Inicialmente, é abordada a metodologia para a construção de algoritmos, fundamentando este conhecimento através do desenvolvimento de uma linguagem de programação. O estudo das técnicas de programação é importante para qualquer curso de ciências e tecnologia.",
+    "nome": "Fundamentos de Programação",
+    "objetivos": [],
+    "regime": "semestral",
+    "turno": {
+        "matutino": true,
+        "noturno": false,
+        "vespertino": true
+    },
+    "unidade": "Centro de Ciências"
+}

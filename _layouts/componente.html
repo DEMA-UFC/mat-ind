@@ -1,0 +1,166 @@
+---
+layout: default
+---
+{% assign componente = site.data.componentes-curriculares | where: "codigo", page.codigo | first %}
+<h1>{{ componente.nome }} - {{ componente.codigo }}</h1>
+<h2>Informações Gerais</h2>
+<table>
+	<tr>
+		<th>Nome</th>
+		<th>Código</th>
+	</tr>
+	<tr>
+		<td>{{ componente.nome }}</td>
+		<td>{{ componente.codigo }}</td>
+	</tr>
+	<tr>
+		<th>Unidade</th>
+		<th>Departamento</th>
+	</tr>
+	<tr>
+		<td>{{ componente.unidade }}</td>
+		<td>{{ componente.departamento }}</td>
+	</tr>
+</table>
+<table>
+	<tr>
+		<th>Curso</th>
+		<th>Currículo</th>
+		<th>Caráter</th>
+		<th>Semestre</th>
+	</tr>
+	<tr>
+		<td>{{ componente.curso.nome }}</td>
+		<td>{{ componente.curso.curriculo }}</td>
+		<td>{{ componente.curso.carater }}</td>
+		<td>
+			{% if componente.curso.semestre %}
+				{{ componente.curso.semestre }}º
+			{% endif %}
+		</td>
+	</tr>
+</table>
+{% if componente.regime %}
+	<table>
+		<tr>
+			<th>Regime</th>
+		</tr>
+		<tr>
+			<td>{{ componente.regime | capitalize }}</td>
+		</tr>
+	</table>
+{% endif %}
+{% if componente.pre-requisitos %}
+	<h2>Pré-Requisitos</h2>
+	<table>
+		<tr>
+			<th>Código</th>
+			<th>Nome</th>
+		</tr>
+		{% assign lista = componente.pre-requisitos | sort_natural %}
+		{% for item in lista %}
+			{% assign pre-requisito = site.data.componentes-curriculares | where: "codigo", item | first %}
+			<tr>
+				<td><a href="{{ pre-requisito.codigo | downcase }}.html">{{ pre-requisito.codigo }}</a></td>
+				<td><a href="{{ pre-requisito.codigo | downcase }}.html">{{ pre-requisito.nome }}</a></td>
+			</tr>
+		{% endfor %}
+	</table>
+{% endif %}
+{% if componente.co-requisitos %}
+	<h2>Có-Requisitos</h2>
+	<table>
+		<tr>
+			<th>Código</th>
+			<th>Nome</th>
+		</tr>
+		{% assign lista = componente.co-requisitos | sort_natural %}
+		{% for item in lista %}
+			{% assign co-requisito = site.data.componentes-curriculares | where: "codigo", item | first %}
+			<tr>
+				<td><a href="/curso/componentes/{{ co-requisito.codigo | downcase }}.html">{{ co-requisito.codigo }}</a></td>
+				<td><a href="/curso/componentes/{{ co-requisito.codigo | downcase }}.html">{{ co-requisito.nome }}</a></td>
+			</tr>
+		{% endfor %}
+	</table>
+{% endif %}
+{% if componente.equivalencias %}
+	<h2>Equivalências</h2>
+	<table>
+		<tr>
+			<th>Código</th>
+			<th>Nome</th>
+		</tr>
+		{% assign lista = componente.equivalencias | sort_natural %}
+		{% for item in lista %}
+			{% assign equivalencia = site.data.componentes-curriculares | where: "codigo", item | first %}
+			<tr>
+				<td><a href="/curso/componentes/{{ equivalencia.codigo | downcase }}.html">{{ equivalencia.codigo }}</a></td>
+				<td><a href="/curso/componentes/{{ equivalencia.codigo | downcase }}.html">{{ equivalencia.nome }}</a></td>
+			</tr>
+		{% endfor %}
+	</table>
+{% endif %}
+{% if componente.justificativa %}
+<h2>Justicativa</h2>
+<p> {{ componente.justificativa }}</p>
+{% endif %}
+{% if componente.objetivos %}
+<h2>Objetivos</h2>
+<p> {{ componente.objetivos }}</p>
+{% endif %}
+{% if componente.ementa %}
+<h2>Ementa</h2>
+<p> {{ componente.ementa }}</p>
+{% endif %}
+<h2>Carga Horária</h2>
+<table>
+	<tr>
+		<th>Semanas</th>
+		<th>Créditos</th>
+		<th>Total (horas)</th>
+		<th>Teórica (horas)</th>
+		<th>Prática (horas)</th>
+		<th>EaD (horas)</th>
+		<th>Extensão (horas)</th>
+	</tr>
+	<tr>
+		<td>{{ componente.carga-horaria.semanas }}</td>
+		{% assign total = 0 %}
+		{% assign total = total | plus: componente.carga-horaria.teorica %}
+		{% assign total = total | plus: componente.carga-horaria.pratica %}
+		{% assign total = total | plus: componente.carga-horaria.ead %}
+		{% assign total = total | plus: componente.carga-horaria.extensao %}
+		<td>{{ total | divided_by: 16 }}</td>
+		<td>{{ total }}</td>
+		<td>{{ componente.carga-horaria.teorica }}</td>
+		<td>{{ componente.carga-horaria.pratica }}</td>
+		<td>{{ componente.carga-horaria.ead }}</td>
+		<td>{{ componente.carga-horaria.extensao }}</td>
+	</tr>
+</table>
+{% if componente.bibliografia %}
+<h2>Bibliografia</h2>
+<h3>Básica</h3>
+<ul>
+	{% for item in componente.bibliografia.basica %}
+		<li>{{ item }}</li>
+	{% endfor %}
+</ul>
+<h3>Complementar</h3>
+<ul>
+	{% for item in componente.bibliografia.complementar %}
+		<li>{{ item }}</li>
+	{% endfor %}
+</ul>
+{% endif %}
+{% if componente.tipo %}
+<h3>Informações de Atividade</h3>
+<ul>
+	<li><b>O tipo da atividade é</b>: {{ componente.tipo }}.</li>
+	<li><b>A carga horária docente é</b>: {{ componente.carga-horaria-docente }} horas.</li>
+</ul>
+{% endif %}
+{% if componente.link-pdf %}
+<a href="{{ componente.link-pdf }}">Arquivo PDF</a>
+{% endif %}

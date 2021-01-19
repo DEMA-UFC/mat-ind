@@ -1,0 +1,45 @@
+{
+    "bibliografia": {
+        "basica": [
+            "LIMA, E. L.; CARVALHO, P. C. P.; WAGNER, E.; MORGADO, A. C. A matemática do ensino médio. Vol 1, SBM, 2012.",
+            "MURAKAMI, C. Fundamentos de matemática elementar: conjuntos, funções. Vol. 1, Editora Atual, 2005.",
+            "IEZZI, G. Fundamentos de matemática elementar: logaritmos. Vol. 2, Editora Atual, 2005.",
+            "IEZZI, G. Fundamentos de matemática elementar: trigonometria. Vol. 3, Editora Atual, 2005.",
+            "IEZZI, G. Fundamentos de matemática elementar: geometria analítica. Vol. 7, Editora Atual, 2005.",
+            "LARSON, R. Precalculus functions and graphs, a graphing approach. Houghton Mifflin Company, 2005."
+        ],
+        "complementar": []
+    },
+    "carga-horaria": {
+        "ead": 0,
+        "extensao": 0,
+        "pratica": 0,
+        "semanas": 16,
+        "teorica": 64
+    },
+    "codigo": "CB0697",
+    "curso": {
+        "carater": "Obrigatório",
+        "codigo": "080",
+        "curriculo": "2011.1G",
+        "grau": "Bacharelado",
+        "nome": "Matemática Industrial",
+        "semestre": 1
+    },
+    "departamento": "Matemática",
+    "ementa": [
+        "Conjuntos numéricos, conceitos de funções, tipos de funções, operações com funções, funções polinominais, funções racionais, funções exponenciais, funções logarítmicas, funções trigonométricas, representação gráfica de funções, geometria analítica no espaço, reta e plano cartesianos."
+    ],
+    "justificativa": "",
+    "nome": "Elementos de Matemática",
+    "objetivos": [
+        "Introduzir/revisar conceitos básicos sobre conjuntos, funções, representações gráficas e geometria analítica."
+    ],
+    "regime": "semestral",
+    "turno": {
+        "matutino": true,
+        "noturno": false,
+        "vespertino": true
+    },
+    "unidade": "Centro de Ciências"
+}

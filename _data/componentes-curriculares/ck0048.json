@@ -1,0 +1,46 @@
+{
+    "bibliografia": {
+        "basica": [
+            "Nakamura, S., “Applied Numerical Methods in C,” Prentice Hall, Englewood Cliffs, NJ, 1993. ",
+            "Cládio, D.M. et al, “Cálculo Numérico Computacional - Teoria e Prática,” Ed. Atlas, 1990. ",
+            "Ruggiero, M.A.G. e Lopes, V.L.R., “Cálculo Numérico - Aspectos Teóricos e Computacionais,” McGraw-Hill do Brasil, 1988. ",
+            "Press, W.H., Flannery, B.P., Teukolsky, S.A. and Vetterling, W.T., “Numerical Recipes - The Art of Scientific Computing,” Cambridge University Press, Cambridge, MA, 1986. ",
+            "Golub, G.H and Loan, C.F., “Matrix Computations,” The Johns Hopkins University Press, Baltimore, Maryland, 1989. ",
+            "Jennings, A., “Matrix Computation for Engineers and Scientists,” John Wiley & Sons, NY, 1980."
+        ],
+        "complementar": []
+    },
+    "carga-horaria": {
+        "ead": 0,
+        "extensao": 0,
+        "pratica": 0,
+        "semanas": 16,
+        "teorica": 64
+    },
+    "codigo": "CK0048",
+    "curso": {
+        "carater": "Obrigatório",
+        "codigo": "080",
+        "curriculo": "2011.1G",
+        "grau": "Bacharelado",
+        "nome": "Matemática Industrial",
+        "semestre": 5
+    },
+    "departamento": "Computação",
+    "ementa": [
+        "Integração Numérica; Diferenciação Numérica; Cálculo de Autovalores e Autovetores de Matrizes; Solução de Problemas de Valores Iniciais de Equações Diferenciais Ordinárias; Solução de Problemas de Valores de Contorno de Equações Diferenciais."
+    ],
+    "justificativa": "Tornar o aluno apto a identificar os métodos numéricos mais adequados a: integração numérica, diferenciação numérica; cálculo de autovalores de matrizes; solução de problemas de valores iniciais de EDO’s; solução de problemas de valores de contorno. O aluno será apto, também, a conhecer os fundamentos dos métodos numéricos de forma a propor modificações para criação de novos métodos ou identificar a causa dos erros.",
+    "nome": "Métodos Numéricos II",
+    "objetivos": [],
+    "pre-requisitos": [
+        "CK0047"
+    ],
+    "regime": "semestral",
+    "turno": {
+        "matutino": true,
+        "noturno": false,
+        "vespertino": true
+    },
+    "unidade": "Centro de Ciências"
+}

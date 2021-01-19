@@ -1,0 +1,46 @@
+{
+    "bibliografia": {
+        "basica": [
+            "Tachizawa, Takeshy - Como fazer monografia na prática, 12. ed. Publicação Rio de Janeiro, RJ :   FGV,   2006.",
+            "Stela C. Bertholo Piconez (coord.); Ivani Catarina Arantes Fazenda - A Prática de ensino e o estágio supervisionado, 23. ed. Publicação Campinas, SP :   Papirus,   2010.",
+            "Salomon, Délcio Vieira - Como fazer uma monografia, 12. ed., São Paulo, SP :   WMF Martins Fontes,   2010.",
+            "Bianchi, Anna Cecília de Moraes - Manual de orientação: Estágio supervisionado, 4. ed. São Paulo, SP :   Cengage Learning,   2011."
+        ],
+        "complementar": []
+    },
+    "carga-horaria": {
+        "ead": 0,
+        "extensao": 0,
+        "pratica": 0,
+        "semanas": 16,
+        "teorica": 32
+    },
+    "codigo": "CC0324",
+    "curso": {
+        "carater": "Obrigatório",
+        "codigo": "080",
+        "curriculo": "2011.1G",
+        "grau": "Bacharelado",
+        "nome": "Matemática Industrial",
+        "semestre": 6
+    },
+    "departamento": "Estatística e Matemática Aplicada",
+    "ementa": [
+        "Seminários e atividades de orientação acadêmica e de formação profissional, sob orientação de professores tutores."
+    ],
+    "justificativa": "O aluno da universidade deve ser orientado sobre os diversos aspectos da monografia e do estágio supervisionado, visando subsidiar sua decisão por uma dessas atividades no semestre subsequente.",
+    "nome": "Seminários Preparatórios para o Estágio Supervisionado e Monografia",
+    "objetivos": [
+        "Subsidiar o aluno na decisão pela monografia e/ou estágio supervisionado"
+    ],
+    "pre-requisitos": [
+        "PB0148"
+    ],
+    "regime": "semestral",
+    "turno": {
+        "matutino": true,
+        "noturno": false,
+        "vespertino": true
+    },
+    "unidade": "Centro de Ciências"
+}

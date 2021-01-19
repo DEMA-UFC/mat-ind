@@ -1,0 +1,46 @@
+{
+    "bibliografia": {
+        "basica": [
+            "BOLDRINI. Álgebra Linear. Editora Harbra.",
+            "LANG, Serge. Álgebra Linear.  Editora Edgar Blücher LTDA",
+            "LIPSCHUTZ, Seymour.  Álgebra Linear. Editora McGraw-Hill",
+            "CALLIOLI, Carlos A.; COSTA, Roberto C. F.; DOMINGUES, Hygino H. Álgebra Linear. Tropical Editora."
+        ],
+        "complementar": []
+    },
+    "carga-horaria": {
+        "ead": 0,
+        "extensao": 0,
+        "pratica": 0,
+        "semanas": 16,
+        "teorica": 64
+    },
+    "codigo": "CB0589",
+    "curso": {
+        "carater": "Obrigatório",
+        "codigo": "080",
+        "curriculo": "2011.1G",
+        "grau": "Bacharelado",
+        "nome": "Matemática Industrial",
+        "semestre": 2
+    },
+    "departamento": "Matemática",
+    "ementa": [
+        "Matrizes. Sistemas lineares. Vetores. Bases. Autovalores e autovetores. Diagonalização de Matrizes simétricas."
+    ],
+    "equivalencias": [
+        "CC0287"
+    ],
+    "justificativa": "",
+    "nome": "Álgebra Linear",
+    "objetivos": [
+        "Saber operar com matrizes; resolver sistemas lineares; saber operar com vetores; saber achar bases ortonominais; saber achar autovalores e autovetores de uma matriz; saber diagonalizar matrizes simétricas."
+    ],
+    "regime": "semestral",
+    "turno": {
+        "matutino": true,
+        "noturno": false,
+        "vespertino": true
+    },
+    "unidade": "Centro de Ciências"
+}

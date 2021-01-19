@@ -1,0 +1,45 @@
+{
+    "bibliografia": {
+        "basica": [
+            "Tachizawa, Takeshy - Como fazer monografia na prática, 12. ed. Publicação Rio de Janeiro, RJ :   FGV,   2006.",
+            "Salomon, Délcio Vieira - Como fazer uma monografia, 12. ed., São Paulo, SP :   WMF Martins Fontes,   2010.",
+            "Guia de Normalização de Trabalhos Acadêmicos da Universidade Federal do Ceará, 2012., http://www.biblioteca.ufc.br/ acessado em 05/2012."
+        ],
+        "complementar": []
+    },
+    "carga-horaria": {
+        "ead": 0,
+        "extensao": 0,
+        "pratica": 128,
+        "semanas": 16,
+        "teorica": 32
+    },
+    "codigo": "CC0315",
+    "curso": {
+        "carater": "Obrigatório",
+        "codigo": "080",
+        "curriculo": "2011.1G",
+        "grau": "Bacharelado",
+        "nome": "Matemática Industrial",
+        "semestre": 7
+    },
+    "departamento": "Estatística e Matemática Aplicada",
+    "ementa": [
+        "Estímulo à produção científica, aprimoramento da capacidade de interpretação e elaboração de um trabalho de conclusão de curso em área específica."
+    ],
+    "justificativa": "Apresentar aos alunos do curso uma estrutura de projeto de pesquisa além da definição do tema a ser desenvolvido. Ao final o aluno apresentará um relatório final e uma apresentação oral que serão avaliados por uma banca examinadora.",
+    "nome": "Monografia I",
+    "objetivos": [
+        "Propiciar aos alunos do curso o estímulo à produção científica, à consulta bibliográfica especializada e ao aprimoramento da capacidade de interpretação e crítica."
+    ],
+    "pre-requisitos": [
+        "CC0324"
+    ],
+    "regime": "semestral",
+    "turno": {
+        "matutino": true,
+        "noturno": false,
+        "vespertino": true
+    },
+    "unidade": "Centro de Ciências"
+}

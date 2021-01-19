@@ -1,0 +1,45 @@
+{
+    "bibliografia": {
+        "basica": [
+            "Stela C. Bertholo Piconez (coord.); Ivani Catarina Arantes Fazenda - A Prática de ensino e o estágio supervisionado, 23. ed. Publicação Campinas, SP :   Papirus,   2010.",
+            "Bianchi, Anna Cecília de Moraes - Manual de orientação: Estágio supervisionado, 4. ed. São Paulo, SP :   Cengage Learning,   2011.",
+            "Guia de Normalização de Trabalhos Acadêmicos da Universidade Federal do Ceará, 2012., http://www.biblioteca.ufc.br/ acessado em 05/2012."
+        ],
+        "complementar": []
+    },
+    "carga-horaria": {
+        "ead": 0,
+        "extensao": 0,
+        "pratica": 128,
+        "semanas": 16,
+        "teorica": 32
+    },
+    "codigo": "CC0317",
+    "curso": {
+        "carater": "Obrigatório",
+        "codigo": "080",
+        "curriculo": "2011.1G",
+        "grau": "Bacharelado",
+        "nome": "Matemática Industrial",
+        "semestre": 7
+    },
+    "departamento": "Estatística e Matemática Aplicada",
+    "ementa": [
+        "Atividades ligadas à prática profissional, que capacitem o estudante a atuar no mercado de trabalho integrado de forma cooperativa, concretizando objetivos previamente estabelecidos. Essas atividades podem ser realizadas na Universidade ou em outras instituições de Pesquisa, empresas públicas ou privadas e órgãos conveniados."
+    ],
+    "justificativa": "Partindo da premissa de que o fazer pedagógico requer momentos de planejamento, execução e avaliação do trabalho, proporcionando um intercâmbio entre a realidade e a educação, através de uma prática que envolva o saber pedagógico, o saber científico, o saber político e o social, o Estágio Supervisionado I justifica-se por sua finalidade de orientar e acompanhar as atividades dos alunos do curso de Matemática Industrial na Universidade ou em outras instituições de Pesquisa, empresas públicas ou privadas e órgãos conveniados. Ao final o aluno apresentará um relatório final e uma apresentação oral que serão avaliados por uma banca examinadora.",
+    "nome": "Estágio Supervisionado I",
+    "objetivos": [
+        "Propiciar aos alunos ambientes adequados para que possam ser capazes de aplicar metodologias, técnicas e ferramentas estudadas ao longo do curso, desenvolvendo habilidades práticas, como formação complementar. Proporcionar a Vicência de situações reais nas quais possam com base no conhecimento teórico desenvolvido nas disciplinas do curso, buscar a unidade teoria e prática."
+    ],
+    "pre-requisitos": [
+        "CC0324"
+    ],
+    "regime": "semestral",
+    "turno": {
+        "matutino": true,
+        "noturno": false,
+        "vespertino": true
+    },
+    "unidade": "Centro de Ciências"
+}

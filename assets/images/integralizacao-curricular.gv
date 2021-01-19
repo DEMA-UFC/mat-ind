@@ -1,0 +1,104 @@
+// Gerado pelo script generate_figure_integralizacao.py
+digraph "Integralização Curricular" {
+	graph [bgcolor=transparent rankdir=TD ranksep=2]
+	node [shape=rect style=rounded]
+	subgraph "cluster_1º Semestre" {
+		label="1º Semestre" pencolor=black style=rounded tooltip="1º Semestre"
+		CC0281 [label=CC0281 href="../../curso/componentes/cc0281.html" tooltip="Seminários de Tutoria I"]
+		CB0534 [label=CB0534 href="../../curso/componentes/cb0534.html" tooltip="Cálculo Diferencial e Integral I"]
+		CK0087 [label=CK0087 href="../../curso/componentes/ck0087.html" tooltip="Fundamentos de Programação"]
+		CB0697 [label=CB0697 href="../../curso/componentes/cb0697.html" tooltip="Elementos de Matemática"]
+		CC0314 [label=CC0314 href="../../curso/componentes/cc0314.html" tooltip="Matemática Finita"]
+	}
+	subgraph "cluster_2º Semestre" {
+		label="2º Semestre" pencolor=black style=rounded tooltip="2º Semestre"
+		CC0284 [label=CC0284 href="../../curso/componentes/cc0284.html" tooltip="Seminários de Tutoria II"]
+		CB0535 [label=CB0535 href="../../curso/componentes/cb0535.html" tooltip="Cálculo Diferencial e Integral II"]
+		CB0589 [label=CB0589 href="../../curso/componentes/cb0589.html" tooltip="Álgebra Linear"]
+		CK0109 [label=CK0109 href="../../curso/componentes/ck0109.html" tooltip="Estrutura de Dados"]
+		CC0280 [label=CC0280 href="../../curso/componentes/cc0280.html" tooltip="Análise Exploratória de Dados"]
+	}
+	subgraph "cluster_3º Semestre" {
+		label="3º Semestre" pencolor=black style=rounded tooltip="3º Semestre"
+		HL0747 [label=HL0747 href="../../curso/componentes/hl0747.html" tooltip="Inglês Técnico"]
+		CC0263 [label=CC0263 href="../../curso/componentes/cc0263.html" tooltip="Programação Linear"]
+		CK0112 [label=CK0112 href="../../curso/componentes/ck0112.html" tooltip="Técnicas de Programação I"]
+		CC0319 [label=CC0319 href="../../curso/componentes/cc0319.html" tooltip="Cálculo das Probabilidades"]
+		CB0536 [label=CB0536 href="../../curso/componentes/cb0536.html" tooltip="Cálculo Diferencial e Integral III"]
+	}
+	subgraph "cluster_4º Semestre" {
+		label="4º Semestre" pencolor=black style=rounded tooltip="4º Semestre"
+		CC0399 [label=CC0399 href="../../curso/componentes/cc0399.html" tooltip="Programação Inteira"]
+		CK0047 [label=CK0047 href="../../curso/componentes/ck0047.html" tooltip="Métodos Numéricos I"]
+		CC0400 [label=CC0400 href="../../curso/componentes/cc0400.html" tooltip="Tecnologia da Informação"]
+		CC0297 [label=CC0297 href="../../curso/componentes/cc0297.html" tooltip="Introdução aos Processos Estocásticos"]
+		CK0019 [label=CK0019 href="../../curso/componentes/ck0019.html" tooltip="Construção e Análise de Algoritmos"]
+	}
+	subgraph "cluster_5º Semestre" {
+		label="5º Semestre" pencolor=black style=rounded tooltip="5º Semestre"
+		CC0321 [label=CC0321 href="../../curso/componentes/cc0321.html" tooltip="Otimização Combinatória e Metaheurística"]
+		PB0148 [label=PB0148 href="../../curso/componentes/pb0148.html" tooltip="Metodologia Científica"]
+		CC0288 [label=CC0288 href="../../curso/componentes/cc0288.html" tooltip="Inferência Estatística I"]
+		CK0048 [label=CK0048 href="../../curso/componentes/ck0048.html" tooltip="Métodos Numéricos II"]
+		CB0591 [label=CB0591 href="../../curso/componentes/cb0591.html" tooltip="Séries de Funções e Equações Diferenciais Ordinárias"]
+		CC0322 [label=CC0322 href="../../curso/componentes/cc0322.html" tooltip="Otimização em Redes"]
+		CC0323 [label=CC0323 href="../../curso/componentes/cc0323.html" tooltip="Programação Não-Linear"]
+	}
+	subgraph "cluster_6º Semestre" {
+		label="6º Semestre" pencolor=black style=rounded tooltip="6º Semestre"
+		CC0325 [label=CC0325 href="../../curso/componentes/cc0325.html" tooltip="Álgebra Linear Computacional"]
+		CC0324 [label=CC0324 href="../../curso/componentes/cc0324.html" tooltip="Seminários Preparatórios para o Estágio Supervisionado e Monografia"]
+		CC0327 [label=CC0327 href="../../curso/componentes/cc0327.html" tooltip="Simulação Estocástica"]
+		CC0326 [label=CC0326 href="../../curso/componentes/cc0326.html" tooltip="Métodos Numéricos para Equações Diferenciais"]
+		CC0228 [label=CC0228 href="../../curso/componentes/cc0228.html" tooltip="Controle Estatístico da Qualidade"]
+	}
+	subgraph "cluster_7º Semestre" {
+		label="7º Semestre" pencolor=black style=rounded tooltip="7º Semestre"
+		CC0317 [label=CC0317 href="../../curso/componentes/cc0317.html" tooltip="Estágio Supervisionado I"]
+		CC0315 [label=CC0315 href="../../curso/componentes/cc0315.html" tooltip="Monografia I"]
+		CC0328 [label=CC0328 href="../../curso/componentes/cc0328.html" tooltip="Laboratório de Otimização"]
+		CC0329 [label=CC0329 href="../../curso/componentes/cc0329.html" tooltip="Laboratório de Matemática Industrial"]
+	}
+	subgraph "cluster_8º Semestre" {
+		label="8º Semestre" pencolor=black style=rounded tooltip="8º Semestre"
+		CC0318 [label=CC0318 href="../../curso/componentes/cc0318.html" tooltip="Estágio Supervisionado II"]
+		CC0316 [label=CC0316 href="../../curso/componentes/cc0316.html" tooltip="Monografia II"]
+	}
+	subgraph cluster_Nenhum {
+		label=Nenhum pencolor=black style=rounded tooltip=Nenhum
+		MIN0001 [label=MIN0001 href="../../curso/componentes/min0001.html" tooltip="Atividades Complementares"]
+	}
+	CC0263 -> CC0399
+	CB0589 -> CC0325
+	CK0047 -> CC0325
+	CK0087 -> CK0047
+	CC0263 -> CC0321
+	CB0589 -> CC0263
+	CK0087 -> CK0112
+	CC0314 -> CC0319
+	CC0324 -> CC0317
+	PB0148 -> CC0324
+	CB0536 -> CC0288
+	CC0319 -> CC0288
+	CK0047 -> CK0048
+	CC0281 -> CC0284
+	CB0589 -> CB0591
+	CC0324 -> CC0315
+	CC0319 -> CC0297
+	CB0535 -> CB0536
+	CK0019 -> CC0328
+	CC0399 -> CC0328
+	CB0534 -> CB0535
+	CB0535 -> CC0323
+	CB0589 -> CC0323
+	CC0317 -> CC0318
+	CK0087 -> CK0109
+	CK0019 -> CC0329
+	CK0047 -> CC0329
+	CC0288 -> CC0327
+	CK0048 -> CC0326
+	CB0591 -> CC0326
+	CC0288 -> CC0228
+	CC0315 -> CC0316
+	CK0109 -> CK0019
+}

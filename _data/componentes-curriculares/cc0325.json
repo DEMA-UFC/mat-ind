@@ -1,0 +1,55 @@
+{
+    "bibliografia": {
+        "basica": [
+            "D. Watkins. Fundamentals of Matrix Computations. J. Wiley, 2006.",
+            "G. Golub e C. Van Loan. Matrix Computations. Johhs Hopkins University Press, 3a. edição, 1996. ",
+            "J. Demmel. Applied Numerical Linear Algebra. SIAM, 1997. ",
+            "L. Trefethen e D. Bau. Numerical Linear Algebra. SIAM, 2000. ",
+            "P. Gill, W. Murray e M. Wright. Numerical Linear Algebra and Optimization, Addison-Wesley Company, 1991. ",
+            "J.M. Ortega. Matrix Theory - a second course. Plenum Press, 1987. ",
+            "S.R. Searle. Matrix Algebra Useful for Statistics. John Wiley & Sons, New York, 1982. ",
+            "B. Noble e J.W. Daniel. Álgebra Linear Aplicada. Prentice Hall do Brasil, 1986. "
+        ],
+        "complementar": []
+    },
+    "carga-horaria": {
+        "ead": 0,
+        "extensao": 0,
+        "pratica": 16,
+        "semanas": 16,
+        "teorica": 48
+    },
+    "codigo": "CC0325",
+    "curso": {
+        "carater": "Eletivo",
+        "codigo": "080",
+        "curriculo": "2011.1G",
+        "grau": "Bacharelado",
+        "habilitacao": [
+            "Pesquisa Operacional",
+            "Matemática Computacional"
+        ],
+        "nome": "Matemática Industrial",
+        "semestre": 6
+    },
+    "departamento": "Estatística e Matemática Aplicada",
+    "ementa": [
+        "Revisão de Álgebra Linear. Algoritmos para multiplicação matricial e sistemas triangulares. Métodos diretos para sistemas lineares. Decomposição LU, método de Gauss. Inversão de matrizes. Matrizes definidas positivas. Decomposição de Cholesky. Decomposição QR. Mínimos quadrados. Esparsidade. Condicionamento. Análise de erros. Métodos iterativos para sistemas lineares. Convergência. Determinação numérica de autovalores e autovetores. Implementações computacionais."
+    ],
+    "justificativa": "Muitos problemas de engenharia e matemática industrial demandam a resolução de sistemas de equações lineares. Conhecer os métodos básicos para solução de sistemas lineares gerais e saber adaptá-los conforme a necessidade, explorando as propriedades de um sistema particular ou as características da máquina  linguagem onde serão implementados, é ponto fundamental na formação de um profissional da área. Essa disciplina apresenta e avalia os principais métodos em álgebra linear computacional.",
+    "nome": "Álgebra Linear Computacional",
+    "objetivos": [
+        "Prover o aluno com conhecimento e experiência computacional na solução de problemas de Álgebra Linear, especialmente a resolução de sistemas lineares."
+    ],
+    "pre-requisitos": [
+        "CB0589",
+        "CK0047"
+    ],
+    "regime": "semestral",
+    "turno": {
+        "matutino": true,
+        "noturno": false,
+        "vespertino": true
+    },
+    "unidade": "Centro de Ciências"
+}

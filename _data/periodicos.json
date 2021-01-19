@@ -1,0 +1,106 @@
+[
+	{
+		"name": "Annals of Operations Research",
+		"url": "http://ns.baltzer.nl/anor/anor.as"
+	},
+	{
+		"name": "Computers & Operations Research",
+		"url": "http://www.elsevier.nl/locate/compor"
+	},
+	{
+		"name": "European Journal of Information Systems",
+		"url": "http://www.stockton-press.co.uk/ejis/"
+	},
+	{
+		"name": "European Journal of Operational Research",
+		"url": "http://www.elsevier.nl/locate/ejor"
+	},
+	{
+		"name": "INFOR",
+		"url": "http://www.utpress.utoronto.ca/journal/jour5/inf_lev5.htm"
+	},
+	{
+		"name": "INFORMS Journal on Computing",
+		"url": "http://www.informs.org/Pubs/Pubshome.html"
+	},
+	{
+		"name": "Interfaces",
+		"url": "http://silmaril.smeal.psu.edu/pol/interfaces/interfaces.htm"
+	},
+	{
+		"name": "International Abstracts in Operations Research",
+		"url": "http://www.stockton-press.co.uk/iaor/"
+	},
+	{
+		"name": "International Transaction in Operational Research",
+		"url": "http://www.elsevier.nl/locate/itor"
+	},
+	{
+		"name": "Journal of Combinatorial Optimization",
+		"url": "http://www.wkap.nl/kapis/CGI-BIN/WORLD/journalhome.htm?1382-6905"
+	},
+	{
+		"name": "Journal of Experimental Algorithmics",
+		"url": "http://www.jea.acm.org/"
+	},
+	{
+		"name": "Journal of Global Optimization",
+		"url": "http://kapis.www.wkap.nl/kapis/CGI-BIN/WORLD/journalhome.htm?0925-5001"
+	},
+	{
+		"name": "Journal of Heuristics",
+		"url": "http://www.wkap.nl/kapis/CGI-BIN/WORLD/jrnltoc.htm?1381-1231"
+	},
+	{
+		"name": "Journal of The Operational Research Society",
+		"url": "http://www.stockton-press.co.uk/jors/"
+	},
+	{
+		"name": "Journals in the Decision Sciences, Management Sciences and Operations Research",
+		"url": "http://www.elsevier.com/locate/orms"
+	},
+	{
+		"name": "Management Science",
+		"url": "http://www.informs.org/Pubs/"
+	},
+	{
+		"name": "Mathematical Programming",
+		"url": "http://www.elesevier.nl/locate/mp"
+	},
+	{
+		"name": "Military Operations Research Journal",
+		"url": "http://www.informatik.hu-berlin.de/www.mors.org"
+	},
+	{
+		"name": "Omega The International Journal of Management Science",
+		"url": "http://www.elsevier.nl/locate/omega"
+	},
+	{
+		"name": "Operations Research",
+		"url": "http://opin.wharton.upenn.edu/~harker/opsresearch.html"
+	},
+	{
+		"name": "Operations Research Letters",
+		"url": "http://www.elsevier.nl/locate/opreslet"
+	},
+	{
+		"name": "Transportation Research Part B: Methodological",
+		"url": "http://www.elsevier.nl/locate/trb"
+	},
+	{
+		"name": "Transportation Science",
+		"url": "http://www.sor.princeton.edu/~dhb/TS/index.html"
+	},
+	{
+		"name": "Pesquisa Operacional",
+		"url": "http://www.sobrapo.org.br"
+	},
+	{
+		"name": "Produção",
+		"url": "http://www.revistaproducao.net"
+	},
+	{
+		"name": "JBCS - Journal of the Brazilian Computer Society",
+		"url": "http://www.sbc.org.br/index.php?language=2&subject=309"
+	}
+]

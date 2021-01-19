@@ -1,0 +1,55 @@
+{
+    "bibliografia": {
+        "basica": [
+            "Wolsey. Integer Programming. Wiley, 1998.",
+            "G.L. Nemhauser e L.A. Wolsey. Integer and Combinatorial Optimization. John Wiley, 1999.",
+            "Schrijver. Theory of Linear and Integer Programming. Wiley, 1998.",
+            "C.H. Papadimitriou e K. Steiglitz. Combinatorial Optimization: algorithms and complexity, 1998.",
+            "C. Ferreira e Y. Wakabayashi. Combinatória Poliédrica e Planos-de-Corte Faciais. X Escola de Computação, 1996.",
+            "H.A. Taha. Integer Programming: theory, applications and computations. Academic Press, 1975.",
+            "H.M. Salkin e K. Mathur. Foundation of Integer Programming. North-Holland, 1989.",
+            "L. Lasdon. Optimization Theory for Large Systems. MacMillan Pub., 1970.",
+            "M.M. Syslo, N. Deo e J.S. Kowalick. Discrete Optimization with Pascal Programs. Prentice-Hall, 1983.",
+            "N. Maculan. Programmation Linéaire en Nombres Entiers. Manuscrito, 1983."
+        ],
+        "complementar": []
+    },
+    "carga-horaria": {
+        "ead": 0,
+        "extensao": 0,
+        "pratica": 16,
+        "semanas": 16,
+        "teorica": 48
+    },
+    "codigo": "CC0399",
+    "curso": {
+        "carater": "Eletivo",
+        "codigo": "080",
+        "curriculo": "2011.1G",
+        "grau": "Bacharelado",
+        "habilitacao": [
+            "Pesquisa Operacional"
+        ],
+        "nome": "Matemática Industrial",
+        "semestre": 4
+    },
+    "departamento": "Estatística e Matemática Aplicada",
+    "ementa": [
+        "Problemas de programação inteira (PPI). Enumeração Implícita. Método de Balas para PPI 0/1. Otimalidade, Rexalação e Limites. Problemas da Classes P. Métodos branch-andbound. Métodos de planos de corte. Dualidade Lagrangeana. Método de geração de colunas; Métodos de Decomposição: Dantzig-Wolfe e Benders. Aplicações."
+    ],
+    "justificativa": "Programação inteira é uma disciplina-chave na área de otimização discreta e, consequentemente, indispensável para a formação do profissional da área. Nela, são vistos os principais métodos de solução de problemas de programação inteira.",
+    "nome": "Programação Inteira",
+    "objetivos": [
+        "Capacitar o aluno para modelar e resolver problemas de programação inteira, sabendo identificar as características que podem/devem ser exploradas e podendo encontrar alternativas eficientes de solução."
+    ],
+    "pre-requisitos": [
+        "CC0263"
+    ],
+    "regime": "semestral",
+    "turno": {
+        "matutino": true,
+        "noturno": false,
+        "vespertino": true
+    },
+    "unidade": "Centro de Ciências"
+}

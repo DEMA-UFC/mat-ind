@@ -1,0 +1,61 @@
+{
+    "bibliografia": {
+        "basica": [
+            "Durret, R. (1999). Essentials of Stochastic Processes. New York: Springer-Verlag.",
+            "Grimmet, G.R. and Stirzaker, D.R. (1992). Probability and Random Processes, 2 nd ed. Hong Kong: Oxford Universty Press.",
+            "Norris, J.M. (1999). Markov Chains. Cambridge: Cambridge University Press.",
+            "Ross, S.M. (1995). Stochastic Processes.New York: Wiley.",
+            "Ross, S. M. (2006). Simulation, 4 th ed. California: Academic Press. ",
+            "Ross, S.M. 2007). Introduction to Probability Models, 9 th ed. California: Academic Press.",
+            "Hoel, P.G, Port, S.C. and Stone, C.J. (1986). Introduction to Stochastic Processes. Illinois: Wavelend Press.",
+            "Guttorp, P. (1995).  Stochastic Modeling of Scientific Data.  London: Chapman & Hall.",
+            "Muller D. (2007). Processos Estocásticos e Aplicações. 1ª ed. Almedina. 9789724029344",
+            "de Almeida J.P., Mauro J. e Alves W. (2008). Probabilidade, Variáveis e Processos Estocásticos. 1ª ed. Interciencia. 8571931917",
+            "Cappé, O., Moulines, E. and Ryden, T. (2005). Inference in Hidden Markov Models. New York:Springer.",
+            "Feller, W. (1970). An introduction to probability theory and its applications, vol 1, 3rd edition. New Yok: John Wiley.",
+            "Feller, W. (1976). Introdução à Teoria das probabilidades, parte 1- Espaços amostrais discretos. São Paulo: Edgar Blucher.",
+            "Ferrari, P.A. and Galves, J.A. (1997). Acoplamento em Processos Estocásticos. XXI Colóquio Brasileiro de Matemática: Rio de Janeiro.",
+            "Mamon, R.S. and Elliot, R.J. (2007). Hidden Markov Models in Finance. York:Springer.",
+            "Klebaner, F. C. (2006). Introduction to Stochastic Calculus with Applications, 2 nd ed. London: Imperial College Press."
+        ],
+        "complementar": []
+    },
+    "carga-horaria": {
+        "ead": 0,
+        "extensao": 0,
+        "pratica": 16,
+        "semanas": 16,
+        "teorica": 80
+    },
+    "codigo": "CC0297",
+    "curso": {
+        "carater": "Eletivo",
+        "codigo": "080",
+        "curriculo": "2011.1G",
+        "grau": "Bacharelado",
+        "habilitacao": [
+            "Matemática Computacional"
+        ],
+        "nome": "Matemática Industrial",
+        "semestre": 4
+    },
+    "departamento": "Estatística e Matemática Aplicada",
+    "ementa": [
+        "Cadeias de Markov em tempo discreto, cadeias de Markov em tempo contínuo, classificação de estados, distribuição estacionária, teorema ergódico, inferência em cadeias de Markov, aplicações de processos estocásticos."
+    ],
+    "justificativa": "Apresentar a teoria básica de processos estocásticos, propiciando assim, ao aluno a utilização da teoria de processos estocásticos em situações da sua área de interesse.",
+    "nome": "Introdução aos Processos Estocásticos",
+    "objetivos": [
+        "Apresentar ao aluno os conceitos dos processos estocásticos e suas aplicações."
+    ],
+    "pre-requisitos": [
+        "CC0319"
+    ],
+    "regime": "semestral",
+    "turno": {
+        "matutino": true,
+        "noturno": false,
+        "vespertino": true
+    },
+    "unidade": "Centro de Ciências"
+}

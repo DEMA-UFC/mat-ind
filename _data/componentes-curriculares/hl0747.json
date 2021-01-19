@@ -1,0 +1,48 @@
+{
+    "bibliografia": {
+        "basica": [
+            "GRENALL, Simon. Effective Reading. Cambrigde University Press, 1986.",
+            "GUIMARÃES, Elisa. A articulação do texto. 4ª edição. São Paulo: Ática,1995.",
+            "KATO, Mary. No Mundo da Escrita. 3ª edição. São Paulo: Ática.",
+            "KEIMAN, Ângela. Leitura: ensino e pesquisa. 2ª edição. São Paulo: Pontes, 1989.",
+            "KOCH, Ingedore Villaça. O Texto e a Construção dos Sentidos. São Paulo: Contexto, 1997.",
+            "KOCH. A Coesão Textual.  7ª edição. São Paulo: Contexto, 1997.",
+            "KOCH, I. V.; TRAVAGLIA, L. C. Texto e Coerência. 4ª edição. São Paulo: Cortez, 1995.",
+            "KOCH, I. V.; TRAVAGLIA, L. C. A Coerência Textual. 7ª edição. São Paulo: Contexto."
+        ],
+        "complementar": []
+    },
+    "carga-horaria": {
+        "ead": 0,
+        "extensao": 0,
+        "pratica": 0,
+        "semanas": 16,
+        "teorica": 64
+    },
+    "codigo": "HL0747",
+    "curso": {
+        "carater": "Obrigatório",
+        "codigo": "080",
+        "curriculo": "2011.1G",
+        "grau": "Bacharelado",
+        "nome": "Matemática Industrial",
+        "semestre": 3
+    },
+    "departamento": "Letras Estrangeiras",
+    "ementa": [
+        "Aspectos de linguística textual e análise do discurso. Habilidades e estratégias de leitura. Concepção de leitura como processo entre leitor, autor e texto. Sistemas morfo-lexical, sintático, semântico e retórico da língua inglesa."
+    ],
+    "equivalencias": [
+        "HC0747"
+    ],
+    "justificativa": "",
+    "nome": "Inglês Técnico",
+    "objetivos": [],
+    "regime": "semestral",
+    "turno": {
+        "matutino": true,
+        "noturno": false,
+        "vespertino": false
+    },
+    "unidade": "Centro de Humanidades"
+}

@@ -1,0 +1,24 @@
+digraph Formação_Básica{
+	bgcolor="transparent";
+	rankdir = LR;
+	node[shape = box];
+	fb[label = "Formação Básica"];
+	mi[label = "Profissional em\n Matemática Industrial"];
+	mat[label = "Matemática"];
+	est[label = "Estatística"];
+	comp[label = "Computação"];
+	oti[label = "Otimização"];
+	mono[label = "Monografia e/ou Estágio"];
+	ori[label = "Orientação Acadêmica"];
+	ling[label = "Linguistíca"];
+	compl[label = "Complementar"];
+	fb -> mi;
+	mi -> mat [dir = none];
+	mi -> est [dir = none];
+	mi -> comp [dir = none];
+	mi -> oti [dir = none];
+	mi -> mono [dir = none];
+	mi -> ori [dir = none];
+	mi -> ling [dir = none];
+	mi -> compl [dir = none];
+}

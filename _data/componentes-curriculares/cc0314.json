@@ -1,0 +1,49 @@
+{
+    "bibliografia": {
+        "basica": [
+            "GERSTING, J. L., Fundamentos matemáticos para a ciência da computação. Ed. LTC. 4a. Edição. 2001.",
+            "MORGADO, A. C. O., CARVALHO, J. B. P., CARVALHO, P. C. P., Análise Combinatória e Probabilidade. SBM, 2007.",
+            "SANTOS, J. P. O., MELLO, M. P., MURARI, I. T. C., Introdução à Análise Combinatória. Editora da Unicamp. 2002.",
+            "FELLER, W., An Introduction to Probability Theory and its Applications, John Wiley & Sons, 1991.",
+            "GRAHAM, R. L., KNUTH, D. E., PATASHNIK, O., Matemática Concreta, Addison Wesley, 1995.",
+            "LIPSCHUTZ, S., Matemática Finita. Editora Mc Graw-Hill. 1981.",
+            "LIPSCHUTZ, S., Probabilidade. Makron Books. 4a. Edição. São Paulo, 1994.",
+            "MATOUŠEK, J., NEŠETŘIL J., Invitation to discrete mathematics. Ed. Oxford. 2nd edition. 2009.",
+            "MEYER, P. L., Probabilidade: Aplicações à Estatística, Livros técnicos e científicos, 2000.",
+            "ROSS, S., Introduction to Probability Models, Academic Press, 1989."
+        ],
+        "complementar": []
+    },
+    "carga-horaria": {
+        "ead": 0,
+        "extensao": 0,
+        "pratica": 16,
+        "semanas": 16,
+        "teorica": 80
+    },
+    "codigo": "CC0314",
+    "curso": {
+        "carater": "Obrigatório",
+        "codigo": "080",
+        "curriculo": "2011.1G",
+        "grau": "Bacharelado",
+        "nome": "Matemática Industrial",
+        "semestre": 1
+    },
+    "departamento": "Estatística e Matemática Aplicada",
+    "ementa": [
+        "Introdução à Lógica Proposicional e à Teoria dos Conjuntos; Técnicas de Demonstração e Indução Matemática; Análise Combinatória; Coeficientes Binomiais; Sequências, Recorrências e Introdução às Séries Geradoras Ordinárias; Introdução à Probabilidade em Espaços Discretos."
+    ],
+    "justificativa": "O conteúdo programático da disciplina Matemática Finita habilita o aluno a dominar conhecimentos básicos, em matemática discreta, úteis ao longo de todo o curso de Matemática Industrial em disciplinas de Informática, Estatística, Probabilidade e de Otimização. O aluno, ao final da disciplina, deverá conhecer fundamentos de raciocínio lógico e indutivo, de técnicas de prova de teoremas, de técnicas de contagem e teoria de conjuntos, de noções de probabilidade em espaços discretos. Espera-se que o aluno adquira senso crítico para entender, utilizar-se e criar conhecimentos imprescindíveis à sua formação de base teórica durante toda sua formação.",
+    "nome": "Matemática Finita",
+    "objetivos": [
+        "Familiarizar o aluno com as técnicas de prova e de contagem. Desenvolver no aluno um senso lógico e crítico que lhe permita solucionar problemas de contagem; propor, demonstrar ou refutar teses no domínio de matemática discreta. Estimar probabilidade de ocorrência de eventos associados a problemas de contagem."
+    ],
+    "regime": "semestral",
+    "turno": {
+        "matutino": true,
+        "noturno": false,
+        "vespertino": true
+    },
+    "unidade": "Centro de Ciências"
+}
