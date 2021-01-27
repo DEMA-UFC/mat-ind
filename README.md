@@ -26,12 +26,12 @@ Para ter um ambiente funcionando de forma que você seja capaz de rodar todo o s
   - [X] Formulário do plano de trabalho da monografia
   - [X] Formulário de substituição de orientador
   - [X] Formulário de sugestão de banca
-  - [X] Modelo de ATA de monografia
+  - [X] modelo de ATA de monografia
 - [X] manual do estágio
 - [X] grade curricular
   - [X] Figura dos pre-requisitos da parte optativa
 - [ ] cadastro dos dos componentes curriculares optativos
-- [ ] Cadastros dos componentes curriculares equivalentes:
+- [ ] cadastros dos componentes curriculares equivalentes:
   - [ ] CK0030
   - [ ] CC0287
   - [ ] CK0235
@@ -56,3 +56,5 @@ Para ter um ambiente funcionando de forma que você seja capaz de rodar todo o s
 - [ ] página inicial
 - [ ] refazer logomarca
 - [ ] preparar logo do DEMA
+- [ ] colocar cores na figura de integralização curricular
+- [ ] colocar carga-horária nas disciplinas do SIGAA
