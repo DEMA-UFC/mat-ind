@@ -26,6 +26,7 @@ links:
   lei-estagio: "[Lei Nº 11.788, de 25 de setembro de 2008](http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11788.htm)"
   cepe-estagio: "[Resolução Nº 32 de 30 de outubro de 2009 do CEPE/UFC](http://www.ufc.br/images/_files/a_universidade/cepe/resolucao_cepe_2009/resolucao32_cepe_2009.pdf)"
   reitor-estagio: "[Portaria Nº 123 de 31 de agosto de 2018 do Gabinete do Reitor/UFC](../assets/pdfs/externo/portaria-gr-123-2018-08-31.pdf)"
+  manual-estagio: "[Manual de Estágio da UFC](https://prograd.ufc.br/wp-content/uploads/2013/11/manual-de-estagio-da-ufc.pdf)"
 ---
 
 # {{ page.title }}
@@ -45,6 +46,11 @@ Para fins de integralização curricular, o aluno do curso de Bacharelado em Mat
 O presente texto busca, de modo objetivo e geral, elucidar o conjunto de normas e princípios para a realização do componente curricular de estágio supervisionado.
 Salientamos que a atividade pode apresentar particularidades a serem abordadas pelos professores supervisores.
 
+Inicialmente, é sugerida a leitura dos seguintes textos que normatizam o estágio obrigatório de forma geral:
+
+{% for item in page.links %}
+- {{ item[1] }}
+{% endfor %}
 ## Aspectos Legais
 
 O estágio, segundo a {{ page.links.lei-estagio }}, é definido, de acordo com o
@@ -52,18 +58,23 @@ O estágio, segundo a {{ page.links.lei-estagio }}, é definido, de acordo com o
 > Art. 1º, como ato educativo escolar supervisionado, desenvolvido no ambiente de trabalho, que visa à preparação para o trabalho produtivo de educandos que estejam frequentando o ensino regular em instituições de educação superior, de educação profissional, de ensino médio, da educação especial e dos anos finais do ensino fundamental, na modalidade profissional da educação de jovens e adultos.
 
 O Estágio Supervisionado do Curso de Matemática Industrial (modalidade bacharelado) será realizado conforme {{ page.links.lei-estagio }}, da {{ page.links.cepe-estagio }} e da {{ page.links.reitor-estagio }}.
+
 O aluno ao escolher a atividade de estágio supervisionado para fins de integralização curricular deverá cumprir as duas atividades denominadas {{ page.componentes.estagio-i }} e {{ page.componentes.estagio-ii }}.
 
 ## Estágio Supervisionado e o Projeto Pedagógico do Curso
 
 O Estágio Supervisionado no curso de Matemática Industrial é uma atividade curricular integrante do [Projeto Pedagógico do Curso](ppc.html).
+
 O Estágio oportuniza a relação teoria/prática durante a formação profissional.
 Ajusta-se aos dispositivos legais a {{ page.links.cepe-estagio }}, que regulamenta o Programa de Estágio Curricular Supervisionado para os alunos dos Cursos de Graduação da UFC, conforme as exigências da {{ page.links.lei-estagio }}.
+
 Tendo em vista a existência de poucos cursos de Matemática Industrial no Brasil, o estágio supervisionado também promove a construção da identidade profissional do Bacharel em Matemática Industrial.
 
 Para tanto, o aluno estagiário poderá desenvolver atividades em laboratórios na UFC ou em outras instituições de pesquisa, empresas e órgãos conveniados que demandem atuação da área de Matemática Industrial ou em áreas correlatas, sob a supervisão de um docente ou pesquisador do quadro docente do [Departamento de Estatística e Matemática Aplicada](https://dema.ufc.br/) e sob a supervisão da chefia direta do setor ao qual o estudante foi lotado.
+
 Os relatórios das atividades de {{ page.componentes.estagio-i }} e {{ page.componentes.estagio-ii }}, deverão ser apresentados pelo aluno estagiário e avaliados pelo professor supervisor, que ainda levará em consideração o relatório apresentado pelo supervisor de estágio da empresa/órgão.
-Tais relatórios deverão ser ainda examinados por uma banca designada pela Coordenação do curso, cujo presidente será o docente supervisor.
+
+Tais relatórios deverão ser ainda examinados por uma banca designada pela coordenação do curso, cujo presidente será o docente supervisor.
 
 Ao final do {{ page.componentes.estagio-ii }}, a avaliação do aluno estagiário será realizada pela apresentação escrita e oral de relatório de estágio, segundo critérios preestabelecidos pela coordenação do curso e constante neste texto.
 
