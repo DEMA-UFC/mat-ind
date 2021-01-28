@@ -23,10 +23,16 @@ formularios:
   termo-realizacao: "[Termo: Realização de estágio (TODO isso ainda existe???)"
   termo-rescisao: "[Termos de Rescisão](https://estagios.ufc.br/pt/formularios/relatorios-rescisao/)"
 links:
+  lei-diretrizes-curriculares: "[Lei Nº 9.394, de 20 de dezembro de 1996](http://www.planalto.gov.br/ccivil_03/leis/l9394.htm)"
   lei-estagio: "[Lei Nº 11.788, de 25 de setembro de 2008](http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11788.htm)"
   cepe-estagio: "[Resolução Nº 32 de 30 de outubro de 2009 do CEPE/UFC](http://www.ufc.br/images/_files/a_universidade/cepe/resolucao_cepe_2009/resolucao32_cepe_2009.pdf)"
+  regimento-geral: "[Regimento Geral da UFC](http://www.ufc.br/images/_files/a_universidade/regimento_geral_ufc/regimento_geral_ufc.pdf)"
   reitor-estagio: "[Portaria Nº 123 de 31 de agosto de 2018 do Gabinete do Reitor/UFC](../assets/pdfs/externo/portaria-gr-123-2018-08-31.pdf)"
   manual-estagio: "[Manual de Estágio da UFC](https://prograd.ufc.br/wp-content/uploads/2013/11/manual-de-estagio-da-ufc.pdf)"
+  cepe-frequencia: "[Resolução Nº 12 de 19 de junho de 2008 do CEPE/UFC](http://www.ufc.br/images/_files/a_universidade/cepe/resolucao_cepe_2008/resolucao12_cepe_2008.pdf)"
+  cne-carga-horaria: "[Tesolução Nº 2, de 18 de junho de 2007 CNE/CES](http://portal.mec.gov.br/index.php?option=com_docman&view=download&alias=16872-res-cne-ces-002-18062007&category_slug=janeiro-2015-pdf&Itemid=30192)"
+  cne-exterior: "[Parecer Nº 150 de 14 de fevereiro de 2019 CNE/CES](http://portal.mec.gov.br/index.php?option=com_docman&view=download&alias=111151-pces150-19&category_slug=abril-2019-pdf&Itemid=30192)"
+  cepe-carga-horaria: "[Resolução Nº 23 de 3 de outubro de 2014 CEPE/UFC](https://prograd.ufc.br/wp-content/uploads/2014/05/resolucao-03-2014-cepe-regime-de-trabalho-e-ch-docente.pdf)"
 ---
 
 # {{ page.title }}
@@ -46,18 +52,25 @@ Para fins de integralização curricular, o aluno do curso de Bacharelado em Mat
 O presente texto busca, de modo objetivo e geral, elucidar o conjunto de normas e princípios para a realização do componente curricular de estágio supervisionado.
 Salientamos que a atividade pode apresentar particularidades a serem abordadas pelos professores supervisores.
 
-Inicialmente, é sugerida a leitura dos seguintes textos que normatizam o estágio obrigatório de forma geral:
+Inicialmente, é sugerida a leitura dos seguintes textos e leis que regulamentam o estágio obrigatório:
 
 {% for item in page.links %}
 - {{ item[1] }}
 {% endfor %}
+
 ## Aspectos Legais
 
 O estágio, segundo a {{ page.links.lei-estagio }}, é definido, de acordo com o
 
 > Art. 1º, como ato educativo escolar supervisionado, desenvolvido no ambiente de trabalho, que visa à preparação para o trabalho produtivo de educandos que estejam frequentando o ensino regular em instituições de educação superior, de educação profissional, de ensino médio, da educação especial e dos anos finais do ensino fundamental, na modalidade profissional da educação de jovens e adultos.
 
-O Estágio Supervisionado do Curso de Matemática Industrial (modalidade bacharelado) será realizado conforme {{ page.links.lei-estagio }}, da {{ page.links.cepe-estagio }} e da {{ page.links.reitor-estagio }}.
+O Estágio Supervisionado do Curso de Matemática Industrial (modalidade bacharelado) será realizado seguindo a legislação em vigor como também as normas internas da Universidade Federal do Ceará como também o Projeto Pedagógico do Curso de Matemática Industrial.
+Essas leis e normas que podem ser encontradas em:
+
+{% for item in page.links %}
+- {{ item[1] }}
+{% endfor %}
+- [Projeto Pedagógico do Curso de Matemática Industrial](ppc.html)
 
 O aluno ao escolher a atividade de estágio supervisionado para fins de integralização curricular deverá cumprir as duas atividades denominadas {{ page.componentes.estagio-i }} e {{ page.componentes.estagio-ii }}.
 
