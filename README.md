@@ -58,3 +58,4 @@ Para ter um ambiente funcionando de forma que você seja capaz de rodar todo o s
 - [ ] preparar logo do DEMA
 - [ ] colocar cores na figura de integralização curricular
 - [ ] colocar carga-horária nas disciplinas do SIGAA
+- [ ] converter as atas para o sei
