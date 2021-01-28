@@ -31,7 +31,7 @@ Para ter um ambiente funcionando de forma que você seja capaz de rodar todo o s
 - [X] grade curricular
   - [X] figura dos pre-requisitos da parte optativa
 - [ ] [verificar adequação do manual de estágio](arquivos-apoio/adequacao-estagio.md)
-- [ ] [verificar adequação do manual de estágio](arquivos-apoio/adequacao-monografia.md)
+- [ ] [verificar adequação do manual de monografia](arquivos-apoio/adequacao-monografia.md)
 - [ ] [verificar adequação do manual de atividades complementares](arquivos-apoio/adequacao-atividades-complementares.md)
 - [ ] tabela de disciplinas e pedido de ementário atualizado
 - [ ] adastro dos dos componentes curriculares optativos
@@ -62,4 +62,4 @@ Para ter um ambiente funcionando de forma que você seja capaz de rodar todo o s
 - [ ] preparar logo do DEMA
 - [ ] colocar cores na figura de integralização curricular
 - [ ] colocar carga-horária nas disciplinas do SIGAA
-- [ ] converter as atas para o sei
+- [ ] converter as atas para o SEI
