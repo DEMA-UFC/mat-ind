@@ -44,19 +44,10 @@ links:
 O [projeto pedagógico de curso](ppc.html) pressupõe, a partir de diretrizes curriculares, uma formação que se fundamente na assimilação e disseminação de conteúdos, experiência acadêmica e profissional e formação do cidadão.
 Assim, atividades didático-pedagógicas em disciplinas, atividades de estágio supervisionado, monografia e atividades complementares devem compor o leque de qualificação do profissional em nível de graduação.
 
-A monografia é um componente pelo qual o aluno tem a oportunidade de transcrever seu trabalho de pesquisa, de forma que conceitos de metodologia científica se expressem em função da temática abordada, seja no campo teórico ou prático.
-O aspecto pesquisador-cientista é iniciado quando a organização das ideias de pesquisa pode ser identificada e avaliada.
-
-Para fins de integralização curricular, o aluno do curso de Bacharelado em Matemática Industrial deve cumprir pelo menos uma das duas atividades, estágio supervisionado ou [monografia](monografia.html) e ainda integralizar as [atividades complementares](atividades-complementares.html).
+Para fins de integralização curricular, o aluno do curso de Bacharelado em Matemática Industrial deve cumprir pelo menos uma das duas atividades, **estágio supervisionado** ou [monografia](monografia.html) e ainda integralizar as [atividades complementares](atividades-complementares.html).
 
 O presente texto busca, de modo objetivo e geral, elucidar o conjunto de normas e princípios para a realização do componente curricular de estágio supervisionado.
 Salientamos que a atividade pode apresentar particularidades a serem abordadas pelos professores supervisores.
-
-Inicialmente, é sugerida a leitura dos seguintes textos e leis que regulamentam o estágio obrigatório:
-
-{% for item in page.links %}
-- {{ item[1] }}
-{% endfor %}
 
 ## Aspectos Legais
 
@@ -111,13 +102,7 @@ Dentre as inúmeras finalidades do Estágio, podemos elencar as seguintes:
 
 ## Procedimentos para a Realização do Estágio Supervisionado Obrigatório
 
-É sugerida inicialmente a leitura tanto das leis e portarias que regulamentam o estágio obrigatório na UFC:
-
-{% for item in page.links %}
-- {{ item[1] }}
-{% endfor %}
-
-As dúvidas mais frequentes dos estudantes que desejam realizar o estágio obrigatório tem suas respostas [aqui](https://estagios.ufc.br/pt/duvidas-frequentes/).
+As dúvidas mais frequentes dos estudantes que desejam realizar o estágio obrigatório e suas respostas podem ser encontradas [aqui](https://estagios.ufc.br/pt/duvidas-frequentes/).
 
 ### Matrícula
 
@@ -196,7 +181,7 @@ Para fins de avaliação do estágio supervisionado obrigatório serão necessá
 ### Frequência
 
 A frequência ao estágio é obrigatória.
-Somente será aprovado pelo critério de assiduidade o aluno que cumprir, no mínimo, 75% da carga horária total prevista para essa atividade, de acordo com a avaliação declarada pela empresa ou órgão acolhedor do estagiário.
+Somente será aprovado pelo critério de assiduidade o aluno que cumprir, no mínimo, 90% da carga horária total prevista para essa atividade, de acordo com a avaliação declarada pela empresa ou órgão acolhedor do estagiário.
 
 ### Reprovação
 
@@ -205,7 +190,7 @@ O aluno será considerado reprovado se:
 - Não apresentar a declaração de estágio ou contrato devidamente preenchida e dentro do prazo estipulado.
 - Não entregar {{ page.formularios.plano-de-trabalho }}.
 - Não entregar os {{ page.formularios.relatorio-de-atividades }} de estágio a cada 6 meses.
-- Não cumprir a carga horária mínima (75%) do estágio, conforme declaração da empresa ou órgão acolhedor do estagiário.
+- Não cumprir a carga horária mínima (90%) do estágio, conforme declaração da empresa ou órgão acolhedor do estagiário.
 - Não ser avaliado positivamente pela banca avaliadora.
 
 ### Disposições Gerais

@@ -25,7 +25,7 @@ links:
 O [projeto pedagógico de curso](ppc.html) pressupõe, a partir de diretrizes curriculares, uma formação que se fundamente na assimilação e disseminação de conteúdos, experiência acadêmica e profissional e formação do cidadão.
 Assim, atividades didático-pedagógicas em disciplinas, atividades de estágio supervisionado, monografia e atividades complementares devem compor o leque de qualificação do profissional em nível de graduação.
 
-Para fins de integralização curricular, o aluno do curso de Bacharelado em Matemática Industrial deve cumprir pelo menos uma das duas atividades, [estágio supervisionado](estagio.md) ou [monografia](monografia.html) e ainda integralizar as **atividades complementares**.
+Para fins de integralização curricular, o aluno do curso de Bacharelado em Matemática Industrial deve cumprir pelo menos uma das duas atividades, [estágio supervisionado](estagio.html) ou [monografia](monografia.html) e ainda integralizar as **atividades complementares**.
 
 Os documentos legais que norteiam esse manual podem ser encontrados nos seguintes sítios:
 
