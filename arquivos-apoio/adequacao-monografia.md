@@ -1,5 +1,13 @@
 # Adequação Manual de Monografia
 
+Links para os aspectos legais:
+
+- [Regimento Geral da UFC](http://www.ufc.br/images/_files/a_universidade/regimento_geral_ufc/regimento_geral_ufc.pdf)"
+- [Resolução Nº 12 de 19 de junho de 2008 do CEPE/UFC](http://www.ufc.br/images/_files/a_universidade/cepe/resolucao_cepe_2008/resolucao12_cepe_2008.pdf)"
+- [Resolução Nº 23 de 3 de outubro de 2014 CEPE/UFC](https://prograd.ufc.br/wp-content/uploads/2014/05/resolucao-03-2014-cepe-regime-de-trabalho-e-ch-docente.pdf)"
+- [Recebimento de TCCs Biblioteca UFC](https://biblioteca.ufc.br/pt/perguntas-frequentes/recebimento-de-tccs/)"
+- [Normalização de Trabalhos Acadêmicos Biblioteca UFC](https://biblioteca.ufc.br/pt/servicos-e-produtos/normalizacao-de-trabalhos-academicos/)"
+
 ## Tarefas
 
 - [ ] A normatização do Trabalho de Conclusão de Curso deve ser encaminhada, via processo, à COPAC/PROGRAD, para submissão à aprovação pela Câmara de Graduação. No processo em questão devem constar:
@@ -9,7 +17,7 @@
   - [ ] Indicação dos documentos legais que serviram de embasamento à elaboração do manual, tais como:
     - [ ] Projeto Pedagógico do Curso;
     - [ ] Regimento Geral da UFC;
-    - [X] - Diretrizes Curriculares Nacionais do Curso; (**não temos**)
+    - [ ] - Diretrizes Curriculares Nacionais do Curso; (**não temos**)
     - [ ] Resolução No 12/CEPE, de 19 de junho de 2008, que Dispõe sobre procedimentos a serem adotados em casos de “Reprovação por Frequência” na UFC;
     - [ ] Resolução No 23/CEPE, de 03 de outubro de 2014, que estabelece normas visando a fortalecer o ensino de graduação e de pós-graduação, a pesquisa e a extensão, ao fixar o regime de trabalho e carga horária dos professores do Magistério Superior da UFC, e dá outras providências;
     - [ ] Ofício  Circular No 04/2014/BU e endereço eletrônico http://www.biblioteca.ufc.br/index.php?option=com_content&task=view&id=789&Itemid=1 - recebimento de TCCs em formato eletrônico;

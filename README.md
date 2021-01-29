@@ -33,7 +33,7 @@ Para ter um ambiente funcionando de forma que você seja capaz de rodar todo o s
 - [ ] [verificar adequação do manual de estágio](arquivos-apoio/adequacao-estagio.md)
 - [ ] [verificar adequação do manual de monografia](arquivos-apoio/adequacao-monografia.md)
 - [ ] [verificar adequação do manual de atividades complementares](arquivos-apoio/adequacao-atividades-complementares.md)
-- [ ] tabela de disciplinas e pedido de ementário atualizado
+- [ ] tabela de disciplinas e pedido de ementário atualizado via sei para os departamentos
 - [ ] adastro dos dos componentes curriculares optativos
 - [ ] cadastros dos componentes curriculares equivalentes:
   - [ ] CK0030
