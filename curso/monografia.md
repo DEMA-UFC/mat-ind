@@ -17,6 +17,12 @@ formularios:
   substituicao-orientador: "[Formulário: Substituição de Orientador](https://forms.gle/JtVHcQTGY1YrNVZKA)"
   sugestao-banca: "[Formulário: Sugestão de Banca](https://forms.gle/iR4suYapbEY5AcN49)"
   modelo-ata: "[Formulário: Modelo de ATA](https://docs.google.com/document/d/1cVCs7QWiL1V0dWaqyPok63stdHN2i1GdDSTMYfC6aMU/edit?usp=sharing)"
+links:
+  ufc-regimento-geral: "[Regimento Geral da UFC](http://www.ufc.br/images/_files/a_universidade/regimento_geral_ufc/regimento_geral_ufc.pdf)"
+  cepe-frequencia: "[Resolução Nº 12 de 19 de junho de 2008 do CEPE/UFC](http://www.ufc.br/images/_files/a_universidade/cepe/resolucao_cepe_2008/resolucao12_cepe_2008.pdf)"
+  cepe-carga-horaria: "[Resolução Nº 23 de 3 de outubro de 2014 CEPE/UFC](https://prograd.ufc.br/wp-content/uploads/2014/05/resolucao-03-2014-cepe-regime-de-trabalho-e-ch-docente.pdf)"
+  biblioteca-recebimento: "[Recebimento de TCCs Biblioteca UFC](https://biblioteca.ufc.br/pt/perguntas-frequentes/recebimento-de-tccs/)"
+  biblioteca-normatizacao: "[Normalização de Trabalhos Acadêmicos Biblioteca UFC](https://biblioteca.ufc.br/pt/servicos-e-produtos/normalizacao-de-trabalhos-academicos/)"
 ---
 
 # {{ page.title }}
@@ -31,11 +37,17 @@ Assim, atividades didático-pedagógicas em disciplinas, atividades de estágio 
 A monografia é um componente pelo qual o aluno tem a oportunidade de transcrever seu trabalho de pesquisa, de forma que conceitos de metodologia científica se expressem em função da temática abordada, seja no campo teórico ou prático.
 O aspecto pesquisador-cientista é iniciado quando a organização das ideias de pesquisa pode ser identificada e avaliada.
 
-Para fins de integralização curricular, o aluno do curso de Bacharelado em Matemática Industrial deve cumprir pelo menos uma das duas atividades, [estágio supervisionado](estagio.html) ou monografia e ainda integralizar as [atividades complementares](atividades-complementares.html).
+Para fins de integralização curricular, o aluno do curso de Bacharelado em Matemática Industrial deve cumprir pelo menos uma das duas atividades, [estágio supervisionado](estagio.html) ou **monografia** e ainda integralizar as [atividades complementares](atividades-complementares.html).
 
 Caso o aluno opte pela monografia, é necessária a apresentação escrita e oral de uma monografia, referentes às atividades {{ page.componentes.monografia-i }} e {{ page.componentes.monografia-ii }}.
 
-A monografia é uma atividade tutorial, envolvendo o estabelecimento da relação entre professor orientador e aluno, que constará da redação de uma monografia referente às atividades desenvolvidas a partir das atividades de pesquisa teórica e/ou prática.
+A monografia é uma atividade tutorial individual, envolvendo o estabelecimento da relação entre professor orientador e aluno, que constará da redação de uma monografia referente às atividades desenvolvidas a partir das atividades de pesquisa teórica e/ou prática.
+
+Os documentos legais que embasam esse manual podem ser encontrados em:
+
+{% for item in page.links %}
+- {{ item[1] }}
+{% endfor %}
 
 ## Matrícula na Atividade
 
@@ -55,7 +67,7 @@ O processo de orientação dar-se-á sob as seguintes condições:
 
 ## Entrega da Monografia - Antes da Defesa
 
-O arquivo digital em formato *PDF* deve ser normalizado segundo o [Guia de Normalização de Trabalhos Acadêmicos da Universidade Federal do Ceará](https://biblioteca.ufc.br/pt/servicos-e-produtos/normalizacao-de-trabalhos-academicos) deverão ser apresentadas na coordenação do curso de Matemática Industrial para apreciação do coordenador do curso e encaminhamento à Comissão Avaliadora, aprovada conforme {{ page.formularios.sugestao-banca }}.
+O arquivo digital em formato *PDF* deve ser normalizado segundo o {{ page.links.biblioteca-normatizacao }} deverão ser apresentadas na coordenação do curso de Matemática Industrial para apreciação do coordenador do curso e encaminhamento à Comissão Avaliadora, aprovada conforme {{ page.formularios.sugestao-banca }}.
 A monografia e a documentação supracitada deverão ser entregues à coordenação do curso em, no mínimo, 15 (quinze) dias antes da defesa pública.
 
 ## A Banca Avaliadora
@@ -82,7 +94,7 @@ Ao final da sessão pública de defesa de monografia, será redigida uma ata que
 
 ## Entrega da Monografia - Versão Final
 
-Após as mudanças finais da monografia o procedimento para arquivamento da versão final deve seguir as [normas da Biblioteca da UFC](https://biblioteca.ufc.br/pt/regulamentos-e-politicas/normas-para-o-recebimento-de-tcc/) para recebimento de trabalhos de conclusão de curso.
+Após as mudanças finais da monografia o procedimento para arquivamento da versão final deve seguir as {{ page.links.biblioteca-recebimento }} para recebimento de trabalhos de conclusão de curso.
 
 ## Disposições Gerais
 
@@ -90,7 +102,7 @@ A atividade Monografia estará sujeita aos critérios e normas aprovadas pela co
 
 - O não cumprimento por parte do aluno das exigências citadas implicará na reprovação do aluno.
 - Os casos não previstos por essas normativas serão resolvidos pela coordenação do curso de Matemática Industrial.
-- A entrega da versão final da monografia descrito em [Entrega da Monografia - Versão Final](#entrega-da-monografia---versão-final) é requisito obrigatório para colação de grau do aluno.
+- A entrega da versão final da monografia descrito em [Entrega da Monografia - Versão Final](#entrega-da-monografia---versão-final) é requisito obrigatório para colação de grau do aluno caso tenha optado por esse componente no lugar do estágio obrigatório.
 
 Casos não previstos neste manual serão avaliados pela coordenação do curso de Matemática Industrial.
 

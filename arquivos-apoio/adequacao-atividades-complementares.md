@@ -1,4 +1,10 @@
-# Adequação Manual de Monografia
+# Adequação Manual de Atividades Complementares
+
+Links para aspectos legais:
+
+- [Regimento Geral da UFC](http://www.ufc.br/images/_files/a_universidade/regimento_geral_ufc/regimento_geral_ufc.pdf)"
+- [Resolução Nº 07 de 17 de junho de 2005 do CEPE/UFC](http://www.ufc.br/images/_files/a_universidade/cepe/resolucao_cepe_1988-2005/resolucao07_cepe_2005.pdf)"
+- [Resolução Nº 2 de 18 de junho de 2007 do CNE/CES](https://abmes.org.br/arquivos/legislacoes/Res_CES_002_2007_06_18.PDF)"
 
 ## Tarefas
 
@@ -11,7 +17,7 @@
     - [ ] Projeto Pedagógico do Curso;
     - [ ] Resolução n° 07/CEPE, de 17 de junho de 2005, que dispõe sobre as Atividades Complementares nos Cursos de Graduação da UFC;
     - [ ] Resolução CNE/CES n° 02, de 18 de junho de 2007, que dispõe sobre carga horária mínima e procedimentos relativos à integralização e duração dos cursos de graduação, bacharelados, na modalidade presencial;
-    - [X] Diretrizes Curriculares Nacionais do Curso. (**não temos**)
+    - [ ] Diretrizes Curriculares Nacionais do Curso. (**não temos**)
 - [ ] Definição das Atividades Complementares, em consonância com a Resolução n° 07/CEPE, de 17 de junho de 2005, e o Projeto Pedagógico do Curso;
 - [ ] Dissertação sobre importância das Atividades Complementares para o curso e para a formação do aluno;
 - [ ] Indicação da obrigatoriedade da integralização da carga horária das Atividades Complementares como requisito para a colação de grau do aluno;
