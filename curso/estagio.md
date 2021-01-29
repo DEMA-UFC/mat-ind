@@ -26,7 +26,7 @@ links:
   lei-diretrizes-curriculares: "[Lei Nº 9.394, de 20 de dezembro de 1996](http://www.planalto.gov.br/ccivil_03/leis/l9394.htm)"
   lei-estagio: "[Lei Nº 11.788, de 25 de setembro de 2008](http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11788.htm)"
   cepe-estagio: "[Resolução Nº 32 de 30 de outubro de 2009 do CEPE/UFC](http://www.ufc.br/images/_files/a_universidade/cepe/resolucao_cepe_2009/resolucao32_cepe_2009.pdf)"
-  regimento-geral: "[Regimento Geral da UFC](http://www.ufc.br/images/_files/a_universidade/regimento_geral_ufc/regimento_geral_ufc.pdf)"
+  ufc-regimento-geral: "[Regimento Geral da UFC](http://www.ufc.br/images/_files/a_universidade/regimento_geral_ufc/regimento_geral_ufc.pdf)"
   reitor-estagio: "[Portaria Nº 123 de 31 de agosto de 2018 do Gabinete do Reitor/UFC](../assets/pdfs/externo/portaria-gr-123-2018-08-31.pdf)"
   manual-estagio: "[Manual de Estágio da UFC](https://prograd.ufc.br/wp-content/uploads/2013/11/manual-de-estagio-da-ufc.pdf)"
   cepe-frequencia: "[Resolução Nº 12 de 19 de junho de 2008 do CEPE/UFC](http://www.ufc.br/images/_files/a_universidade/cepe/resolucao_cepe_2008/resolucao12_cepe_2008.pdf)"

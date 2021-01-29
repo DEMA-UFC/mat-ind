@@ -12,6 +12,10 @@ componentes:
   atividades-complementares: "[Atividades Complementares](componentes/min0001.html)"
 formularios:
   atividade-complementar: "[Formulário de Atividades Complementares](https://forms.gle/fNqrDadzovHs8NGT9)"
+links:
+  ufc-regimento-geral: "[Regimento Geral da UFC](http://www.ufc.br/images/_files/a_universidade/regimento_geral_ufc/regimento_geral_ufc.pdf)"
+  cepe-atividades-complementares: "[Resolução Nº 07 de 17 de junho de 2005 do CEPE/UFC](http://www.ufc.br/images/_files/a_universidade/cepe/resolucao_cepe_1988-2005/resolucao07_cepe_2005.pdf)"
+  cne-carga-horaria: "[Resolução Nº 2 de 18 de junho de 2007 do CNE/CES](https://abmes.org.br/arquivos/legislacoes/Res_CES_002_2007_06_18.PDF)"
 ---
 
 # {{ page.title }}
@@ -21,14 +25,27 @@ formularios:
 O [projeto pedagógico de curso](ppc.html) pressupõe, a partir de diretrizes curriculares, uma formação que se fundamente na assimilação e disseminação de conteúdos, experiência acadêmica e profissional e formação do cidadão.
 Assim, atividades didático-pedagógicas em disciplinas, atividades de estágio supervisionado, monografia e atividades complementares devem compor o leque de qualificação do profissional em nível de graduação.
 
-Para fins de integralização curricular, o aluno do curso de Bacharelado em Matemática Industrial deve cumprir pelo menos uma das duas atividades, [estágio supervisionado](estagio.md) ou [monografia](monografia.html) e ainda integralizar as atividades complementares.
+Para fins de integralização curricular, o aluno do curso de Bacharelado em Matemática Industrial deve cumprir pelo menos uma das duas atividades, [estágio supervisionado](estagio.md) ou [monografia](monografia.html) e ainda integralizar as **atividades complementares**.
+
+Os documentos legais que norteiam esse manual podem ser encontrados nos seguintes sítios:
+
+{% for item in page.links %}
+- {{ item[1] }}
+{% endfor %}
+
+## Descrição das Atividades Complementares
 
 As atividades complementares consistem no conjunto de vivências acadêmicas que propiciam não somente a formação profissional como também a cidadã.
 Através delas, o aluno poderá assimilar conhecimento e ter a oportunidade de compartilhá-lo com outros alunos e com a sociedade.
 Assim, pode-se dizer que as atividades complementares moldam os aspectos profissional e pessoal.
-O presente manual objetiva regimentar internamente o curso e orientar os estudantes que, de acordo com [Projeto Pedagógico do Curso de Matemática Industrial](ppc.html), estejam aptos e cientes da realização destes componentes curriculares.
+O presente manual objetiva normatizar internamente o curso e orientar os estudantes que, de acordo com [Projeto Pedagógico do Curso de Matemática Industrial](ppc.html), estejam aptos e cientes da realização deste componente curriculare.
 
-As atividades complementares estão regulamentadas nos projetos político pedagógico dos cursos de graduação e são consideradas as atividades que complementam a formação do aluno, considerando o currículo pedagógico; ampliam o conhecimento teórico-prático com atividades extraclasse; fomentam a prática de trabalho entre grupos; estimulam as atividades de caráter solidário; incentivam a tomada de iniciativa e o espírito empreendedor e enriquecem a formação pessoal e profissional do aluno.
+As atividades complementares estão regulamentadas nos projetos político pedagógico dos cursos de graduação e são consideradas as atividades que complementam a formação do aluno, considerando o currículo pedagógico:
+
+- ampliam o conhecimento teórico-prático com atividades extraclasse;
+- fomentam a prática de trabalho entre grupos;
+- estimulam as atividades de caráter solidário;
+- incentivam a tomada de iniciativa e o espírito empreendedor e enriquecem a formação pessoal e profissional do aluno.
 
 Conforme parecer do Conselho Nacional de Educação:
 
@@ -42,11 +59,13 @@ Neste sentido, os acadêmicos deverão compreender que as atividades complementa
 
 ## Regulamentação
 
-A Coordenação do Curso de Matemática Industrial, em cumprimento ao Projeto Pedagógico de Curso, implantado em 2011.1 e de acordo com a [Resolução N° 07/CEPE de 17 de junho de 2005](http://www.ufc.br/images/_files/a_universidade/cepe/resolucao_cepe_1988-2005/resolucao07_cepe_2005.pdf), regulamenta as atividades complementares em suas modalidades, carga horária e sistematização.
+A Coordenação do Curso de Matemática Industrial, em cumprimento ao Projeto Pedagógico de Curso, implantado em 2011.1 e de acordo com a {{ page.links.cepe-atividades-complementares }}, regulamenta as atividades complementares em suas modalidades, carga horária e sistematização.
 
 O componente curricular associado às atividades complementares é {{ page.componentes.atividades-complementares }}.
 
 As atividades não poderão ocorrer em horário concomitante às disciplinas em que o aluno estiver matriculado, com exceção de eventos científicos.
+
+A integralização das atividades complementares é um requisito para a colação de grau do aluno.
 
 No curso de Bacharelado em Matemática Industrial, a [regulamentação interna das atividades complementares](../assets/pdfs/atividades-complementares/regulamentacao-atividades-complementares.pdf) foi aprovada em 7 de maio de 2012.
 
@@ -100,7 +119,7 @@ As atividades consideradas complementares, com suas respectivas pontuações, s�
 | 7.5. Função de liderança de turma.                                                                                                                                                                                                                                                | 10 horas por semestre                                                                                         |
 | 7.6. Participação em minicursos de formação profissional.                                                                                                                                                                                                                         | 02 horas por participação                                                                                     |
 
-De acordo com o Artigo. 7º da [Resolução Nº 07/CEPE de 17 de junho de 2005](http://www.ufc.br/images/_files/a_universidade/cepe/resolucao_cepe_1988-2005/resolucao07_cepe_2005.pdf), as atividades poderão ser realizadas pelos estudantes a partir do primeiro semestre, devendo ser integralizadas até 60 (sessenta) dias antes da conclusão do curso.
+De acordo com o Artigo. 7º da {{ page.links.cepe-atividades-complementares }}, as atividades poderão ser realizadas pelos estudantes a partir do primeiro semestre, devendo ser integralizadas até 60 (sessenta) dias antes da conclusão do curso.
 
 A análise das atividades complementares deverá ser requerida pelo aluno mediante o preenchimento do {{ page.formularios.atividade-complementar }}, acompanhado das devidas comprovações.
 Essa requisição deverá ocorrer no máximo até o período de matrícula do último semestre de integralização do curso obedecendo as regras citadas na resolução acima.
