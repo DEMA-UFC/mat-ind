@@ -1,4 +1,10 @@
-# Adequação Manual de Monografia
+# Adequação Manual de Atividades Complementares
+
+Links para aspectos legais:
+
+- [Regimento Geral da UFC](http://www.ufc.br/images/_files/a_universidade/regimento_geral_ufc/regimento_geral_ufc.pdf)"
+- [Resolução Nº 07 de 17 de junho de 2005 do CEPE/UFC](http://www.ufc.br/images/_files/a_universidade/cepe/resolucao_cepe_1988-2005/resolucao07_cepe_2005.pdf)"
+- [Resolução Nº 2 de 18 de junho de 2007 do CNE/CES](https://abmes.org.br/arquivos/legislacoes/Res_CES_002_2007_06_18.PDF)"
 
 ## Tarefas
 

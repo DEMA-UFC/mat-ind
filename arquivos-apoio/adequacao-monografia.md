@@ -1,5 +1,13 @@
 # Adequação Manual de Monografia
 
+Links para os aspectos legais:
+
+- [Regimento Geral da UFC](http://www.ufc.br/images/_files/a_universidade/regimento_geral_ufc/regimento_geral_ufc.pdf)"
+- [Resolução Nº 12 de 19 de junho de 2008 do CEPE/UFC](http://www.ufc.br/images/_files/a_universidade/cepe/resolucao_cepe_2008/resolucao12_cepe_2008.pdf)"
+- [Resolução Nº 23 de 3 de outubro de 2014 CEPE/UFC](https://prograd.ufc.br/wp-content/uploads/2014/05/resolucao-03-2014-cepe-regime-de-trabalho-e-ch-docente.pdf)"
+- [Recebimento de TCCs Biblioteca UFC](https://biblioteca.ufc.br/pt/perguntas-frequentes/recebimento-de-tccs/)"
+- [Normalização de Trabalhos Acadêmicos Biblioteca UFC](https://biblioteca.ufc.br/pt/servicos-e-produtos/normalizacao-de-trabalhos-academicos/)"
+
 ## Tarefas
 
 - [ ] A normatização do Trabalho de Conclusão de Curso deve ser encaminhada, via processo, à COPAC/PROGRAD, para submissão à aprovação pela Câmara de Graduação. No processo em questão devem constar:
