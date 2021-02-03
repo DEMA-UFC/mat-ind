@@ -34,12 +34,18 @@ vigencia-coordenacao-fim: 2022-02-28
 vigencia-nde-inicio: 2020-09-08
 vigencia-nde-fim: 2023-09-08
 atas-colegiado:
-- 
+- 2020-09-08
+- 2020-07-17
+- 2019-11-12
+- 2019-08-05
+- 2019-04-23
+- 2019-02-18
+- 2018-12-14
 atas-nde:
 - 2020-12-09
 ---
 
-# Coordenação
+# {{ page.title }}
 
 A coordenação do curso de matemática industrial com vigência de {{ page.vigencia-coordenacao-inicio | date: "%d/%m/%Y" }} até {{ page.vigencia-coordenacao-fim | date: "%d/%m/%Y" }} é regulamentada pela [Portaria Nº 1124 PROGEP de 2019](../assets/pdfs/coordenacao/vigencia-coordenacao-2019-03-01-2022-02-28.pdf).
 

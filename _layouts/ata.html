@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<h1>Ata de reunião do {{ page.orgao }}</h1>
+<h1>Ata da {% if page.numero %}{{ page.numero | append: "º" }}{% endif %} Reunião do {{ page.orgao }}</h1>
 <h2>Ocorrida em: {{ page.data | date: "%d/%m/%Y" }}</h2>
 <h2>Participantes</h2>
 <ul>
@@ -15,8 +15,8 @@ layout: default
 {% if page.orgao == "Núcleo Docente Estruturante" %}
     {% assign prefixo = "nde" %}
 {% endif %}
-{% if page.orgao == "Colégiado da Coordenação" %}
+{% if page.orgao == "Colegiado da Coordenação do Curso de Matemática Industrial" %}
     {% assign prefixo = "colegiado" %}
 {% endif %}
 
-O arquivo original pode ser encontrado <a href="../../assets/pdfs/atas/{{ prefixo }}-{{page.data}}.html">aqui</a>.
+O arquivo original pode ser encontrado <a href="../../assets/pdfs/coordenacao/atas/{{ prefixo }}-{{page.data}}.pdf">aqui</a>.
