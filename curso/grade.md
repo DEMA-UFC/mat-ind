@@ -2,6 +2,8 @@
 title: Grade Curricular
 ---
 
+# {{ page.title }}
+
 ## Gráfico dos Componentes Obrigatórios ou Eletivos
 
 [![Integralização Curricular](../assets/images/integralizacao-curricular.gv.svg)](../assets/images/integralizacao-curricular.gv.svg)

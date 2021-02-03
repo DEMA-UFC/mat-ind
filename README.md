@@ -57,9 +57,9 @@ Para ter um ambiente funcionando de forma que você seja capaz de rodar todo o s
 - [ ] explicar como fazer contribuições
 - [ ] adicionar pdfs ao final de cada um dos componentes
 - [ ] adicionar atas do NDE e Colegiado ao sistema
+  - [ ] Atas do Colegiado 31, 32, 33, 34 e 35 tem que receber assinaturas no SEI.
 - [ ] página inicial
 - [ ] refazer logomarca
 - [ ] preparar logo do DEMA
 - [ ] colocar cores na figura de integralização curricular
 - [ ] colocar carga-horária nas disciplinas do SIGAA
-- [ ] converter as atas para o SEI
