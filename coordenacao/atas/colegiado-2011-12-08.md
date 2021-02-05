@@ -1,7 +1,7 @@
 ---
 layout: ata
 orgao: Colegiado da Coordenação do Curso de Matemática Industrial
-data: 2011-11-08
+data: 2011-12-08
 numero: 10
 participantes:
   - Prof. Dr. Albert Einstein Fernandes Muritiba
