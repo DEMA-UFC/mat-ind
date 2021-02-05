@@ -57,8 +57,9 @@ Para ter um ambiente funcionando de forma que você seja capaz de rodar todo o s
 - [ ] explicar como fazer contribuições
 - [ ] adicionar pdfs ao final de cada um dos componentes
 - [ ] adicionar atas do NDE e Colegiado ao sistema
-  - [ ] Atas do Colegiado 1-14.
   - [ ] Atas do Colegiado 31, 32, 33, 34 e 35 tem que receber assinaturas no SEI.
+  - [ ] Atas do Colegiado 1-9.
+  - [ ] Ata do Colegiado 14 sem PDF!
   - [ ] Atas NDE TODAS.
 - [ ] página inicial
 - [ ] refazer logomarca
