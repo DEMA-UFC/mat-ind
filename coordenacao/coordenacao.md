@@ -76,7 +76,7 @@ Os membros do atual Núcleo Docente Estruturante são:
 - {{ item }}
 {% endfor %}
 
-A vigência desse colégiado vai de {{ page.vigencia-nde-inicio | date: "%d/%m/%Y" }} até {{ page.vigencia-nde-fim | date: "%d/%m/%Y" }} tendo sido regulamentado pela [Portaria Nº 20 Centro de Ciências de 2020](../assets/pdfs/coordenacao/vigencia-NDE-2020-09-08-2023-09-08.pdf).
+A vigência desse colégiado vai de {{ page.vigencia-nde-inicio | date: "%d/%m/%Y" }} até {{ page.vigencia-nde-fim | date: "%d/%m/%Y" }} tendo sido regulamentado pela [Portaria Nº 20 Centro de Ciências de 2020](../assets/pdfs/coordenacao/vigencia-nde-2020-09-08-2023-09-08.pdf).
 
 ## Atas de Reuniões
 
