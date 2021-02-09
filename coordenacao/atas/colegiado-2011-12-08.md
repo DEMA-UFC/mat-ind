@@ -1,8 +1,9 @@
 ---
 layout: ata
 orgao: Colegiado da Coordenação do Curso de Matemática Industrial
-data: 2011-12-08
+data: 2011-12-08T09:00
 numero: 10
+local: Sala da Chefia do Departamento de Estatística e Matemática Aplicada
 participantes:
   - Prof. Dr. Albert Einstein Fernandes Muritiba
   - Prof. Dr. Carlos Diego Rodrigues

@@ -1,8 +1,9 @@
 ---
 layout: ata
 orgao: Colegiado da Coordenação do Curso de Matemática Industrial
-data: 2011-11-29
+data: 2011-11-29T08:30
 numero: 9
+local: Sala da Chefia do Departamento de Estatística e Matemática Aplicada
 participantes:
   - Prof. Dr. André Luís Shiguemoto, Coordenador do Curso
   - Prof. Dr. Manoel Bezerra Campêlo Neto

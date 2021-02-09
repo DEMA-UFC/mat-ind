@@ -1,8 +1,9 @@
 ---
 layout: ata
 orgao: Colegiado da Coordenação do Curso de Matemática Industrial
-data: 2014-12-02
+data: 2014-12-02T10:00
 numero: 22
+local: Sala da Chefia do Departamento de Estatística e Matemática Aplicada
 participantes:
   - Prof. Dr. Júlio Francisco Barros Neto, Coordenador do Curso
   - Prof. Dr. Carlos Diego Rodrigues

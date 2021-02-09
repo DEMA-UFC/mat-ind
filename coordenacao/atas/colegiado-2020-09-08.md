@@ -1,8 +1,9 @@
 ---
 layout: ata
 orgao: Colegiado da Coordenação do Curso de Matemática Industrial
-data: 2020-09-08
+data: 2020-09-08T15:00
 numero: 35
+local: Videoconferência
 participantes:
   - Prof. Dr. Ronan Pardo Soares, Coordenador do Curso
   - Prof. Dr. João Welliandre Carneiro Alexandre

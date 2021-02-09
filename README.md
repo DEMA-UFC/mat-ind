@@ -57,8 +57,16 @@ Para ter um ambiente funcionando de forma que você seja capaz de rodar todo o s
 - [ ] explicar como fazer contribuições
 - [ ] adicionar pdfs ao final de cada um dos componentes
 - [ ] adicionar atas do NDE e Colegiado ao sistema
-  - [ ] Atas do Colegiado 31, 32, 33, 34 e 35 tem que receber assinaturas no SEI.
+  - [ ] Atas do Colegiado tem que receber assinaturas no SEI.
+    - [ ] Adicionar Ata assinada 2020-09-08 no SEI: 23067.004479/2021-17
+    - [ ] Adicionar Ata assinada 2020-07-17 no SEI: 23067.004477/2021-28
+    - [ ] Adicionar Ata assinada 2019-11-12 no SEI: 23067.004476/2021-83
+    - [ ] Adicionar Ata assinada 2019-08-05 no SEI: 23067.004474/2021-94
+    - [ ] Adicionar Ata assinada 2019-04-23 no SEI: 23067.004471/2021-51
   - [ ] Atas NDE TODAS.
+    - [ ] Adicionar Ata assinada 2020-12-09 SEI: 23067.004414/2021-71
+    - [ ] Adicionar Ata assinada 2021-01-27 SEI: 23067.005404/2021-53
+    - [ ] Adicionar Ata assinada 2021-02-03 SEI: 23067.005410/2021-19
 - [ ] página inicial
 - [ ] refazer logomarca
 - [ ] preparar logo do DEMA

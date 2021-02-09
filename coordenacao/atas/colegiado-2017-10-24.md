@@ -1,8 +1,9 @@
 ---
 layout: ata
 orgao: Colegiado da Coordenação do Curso de Matemática Industrial
-data: 2017-10-24
+data: 2017-10-24T16:14
 numero: 27
+local: Sala da Chefia do Departamento de Estatística e Matemática Aplicada
 participantes:
   - Prof. Dr. Ronan Pardo Soares, Coordenador do Curso
   - Prof. Dr. João Welliandre Carneiro Alexandre

@@ -1,8 +1,9 @@
 ---
 layout: ata
 orgao: Colegiado da Coordenação do Curso de Matemática Industrial
-data: 2019-02-18
+data: 2019-02-18T14:20
 numero: 30
+local: Sala de Reuniões do Bloco 910
 participantes:
   - Prof. Dr. Ronan Pardo Soares, Coordenador do Curso
   - Prof. Dr. João Welliandre Carneiro Alexandre
