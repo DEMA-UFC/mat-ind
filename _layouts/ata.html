@@ -2,8 +2,10 @@
 layout: default
 ---
 
-<h1>Ata da {% if page.numero %}{{ page.numero | append: "º" }}{% endif %} Reunião do {{ page.orgao }}</h1>
-<h2>Ocorrida em: {{ page.data | date: "%d/%m/%Y" }}</h2>
+<h1>Ata da {% if page.numero %}{{ page.numero | append: "º" }}{% endif %} Reunião</h1>
+<h2>{{ page.orgao }}</h2>
+<h2>Ocorrida em: {{ page.data | date: "%d/%m/%Y às %H:%M" }}</h2>
+<h2>Local: {{ page.local }}</h2>
 <h2>Participantes</h2>
 <ul>
 {% for participante in page.participantes %}
@@ -12,7 +14,7 @@ layout: default
 </ul>
 <h2>Conteúdo</h2>
 {{ content }}
-{% if page.orgao == "Núcleo Docente Estruturante" %}
+{% if page.orgao == "Núcleo Docente Estruturante do Curso de Matemática Industrial" %}
     {% assign prefixo = "nde" %}
 {% endif %}
 {% if page.orgao == "Colegiado da Coordenação do Curso de Matemática Industrial" %}

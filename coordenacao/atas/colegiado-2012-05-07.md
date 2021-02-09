@@ -1,8 +1,9 @@
 ---
 layout: ata
 orgao: Colegiado da Coordenação do Curso de Matemática Industrial
-data: 2012-05-07
+data: 2012-05-07T14:40
 numero: 12
+local: Sala de Reuniões do Bloco 910
 participantes:
   - Prof. Dr. André Luís Shiguemoto, Coordenador do Curso
   - Prof. Dr. Carlos Diego Rodrigues
