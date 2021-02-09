@@ -1,8 +1,9 @@
 ---
 layout: ata
 orgao: Colegiado da Coordenação do Curso de Matemática Industrial
-data: 2016-05-25
+data: 2016-05-25T10:00
 numero: 23
+local: Sala de Reuniões do Bloco 910
 participantes:
   - Prof. Dr. Júlio Francisco Barros Neto, Coordenador do Curso
   - Prof. Dr. João Welliandre Carneiro Alexandre

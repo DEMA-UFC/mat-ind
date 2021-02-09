@@ -1,7 +1,8 @@
 ---
 layout: ata
 orgao: Colegiado da Coordenação do Curso de Matemática Industrial
-data: 2010-11-30
+data: 2010-11-30T09:45
+local: Sala da Chefia do Departamento de Estatística e Matemática Aplicada
 numero: 1
 participantes:
   - Prof. Dr. Júlio Francisco Barros Neto
