@@ -17,7 +17,7 @@ Aos catorze dias do mês de dezembro de dois mil e dezoito, às onze horas vinte
 
 Havendo número legal de participantes, o presidente da reunião, Prof. Manoel Campêlo, deu início ao único ponto de pauta:
 
-1. **Eleição para Coordenador e Vice-coordenador do Curso de Matemática Idustrial, gestão 2019-2022**.
+1. **Eleição para Coordenador e Vice-coordenador do Curso de Matemática Industrial, gestão 2019-2022**.
    Apenas o Prof. Ronan Pardo se candidatou para o cargo de Coordenador e, em seguida, o Prof. Michael Ferreira candidatou-se ao cargo de vice-coordenador, formando-se, assim, uma chapa única, na qual todos os presentes votaram a favor.
    Assim, foram eleitos para a próxima gestão, que tem início em primeiro de março de 2019 e termina em vinte e oito de fevereiro de 2022, os docentes Ronan Pardo Soares, como coordenador, e Michael Ferreira de Souza, vice-coordenador.
    Os eleitos agradeceram o apoio.

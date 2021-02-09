@@ -22,7 +22,7 @@ Havendo número legal de participantes, o Coordenador deu por aberta a sessão e
    O prof. André Luís explicou que toda a bibliografia básica do Curso já foi adquirida e que, portanto, é necessário solicitar livros para as disciplinas optativas.
    O aluno Pedro Henrique sugeriu que fossem solicitados mais exemplares para as cadeiras da área de cálculo, mas o Prof. André Luís argumentou que a prioridade é adquirir livros para disciplinas mais específicas do Curso.
    Em seguida, apresentou a proposta de lista de livros sugeridos para aquisição, sobre a qual os presentes discutiram e sugeriram algumas alterações e, por fim, aprovaram a proposta por unanimidade.
-2. **Outros assuntos**: os professores passaram a debater sobre quantos e para qual ênfase deverá ser solicitado em reunião com o Reitor e com a Prograd, neste mesmo dia no período da tarde.
+2. **Outros assuntos**: os professores passaram a debater sobre quantos e para qual ênfase deverá ser solicitado em reunião com o Reitor e com a PROGRAD, neste mesmo dia no período da tarde.
    Acordaram que solicitarão uma vaga para professor que atenderá tanto a ênfase em Matemática Computacional quanto em Pesquisa Operacional.
 
 Nada mais havendo a tratar, o Coordenador declarou a sessão encerrada.

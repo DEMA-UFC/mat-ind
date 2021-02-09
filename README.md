@@ -63,7 +63,12 @@ Para ter um ambiente funcionando de forma que você seja capaz de rodar todo o s
     - [ ] Adicionar Ata assinada 2019-11-12 no SEI: 23067.004476/2021-83
     - [ ] Adicionar Ata assinada 2019-08-05 no SEI: 23067.004474/2021-94
     - [ ] Adicionar Ata assinada 2019-04-23 no SEI: 23067.004471/2021-51
-  - [ ] Atas NDE TODAS.
+  - [ ] Atas do NDE.
+    - [ ] Receber: 09/07/2020
+    - [ ] Receber: 02/07/2020
+    - [ ] Receber: 19/06/2020
+    - [ ] Receber: 12/06/2020
+    - [ ] Adicionar Ata assinada 2018-10-10 SEI: 23067.005448/2021-83
     - [ ] Adicionar Ata assinada 2020-12-09 SEI: 23067.004414/2021-71
     - [ ] Adicionar Ata assinada 2021-01-27 SEI: 23067.005404/2021-53
     - [ ] Adicionar Ata assinada 2021-02-03 SEI: 23067.005410/2021-19
